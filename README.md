@@ -2,9 +2,11 @@
 ## **Clinical Trial Analytics Platform - GitHub Repository Documentation**
 
 ---
-<img width="1158" height="524" alt="Image" src="https://github.com/user-attachments/assets/80e27fbb-54ee-44d6-8925-558459657118" />
-<img width="1135" height="492" alt="Image" src="https://github.com/user-attachments/assets/ba78aae7-adda-4ebc-b327-2b19c74d01ea" />
+
 <img width="1470" height="705" alt="Image" src="https://github.com/user-attachments/assets/f2b85b4d-6187-4300-9018-c7517de8bec7" />
+
+<img width="1135" height="492" alt="Image" src="https://github.com/user-attachments/assets/ba78aae7-adda-4ebc-b327-2b19c74d01ea" />
+
 ## **📋 PROJECT OVERVIEW**
 
 **Integrated Trial Monitor** is an AI-powered clinical trial analytics platform designed to transform fragmented clinical trial data into actionable insights. The solution integrates nine disparate data sources, implements a sophisticated Data Quality Index, and leverages Generative AI to provide real-time operational visibility for clinical trial teams.
@@ -36,44 +38,7 @@
 
 ### **System Architecture Diagram**
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    DATA SOURCES (9 Files)                    │
-├─────────────────────────────────────────────────────────────┤
-│ 1. CPID_EDC_Metrics.xlsx         6. Missing_Lab_Data.xlsx   │
-│ 2. Visit_Projection_Tracker.xlsx 7. SAE_Dashboard.xlsx      │
-│ 3. Missing_Pages_Report.xlsx     8. MedDRA_Coding.xlsx      │
-│ 4. Compiled_EDRR.xlsx            9. WHODD_Coding.xlsx       │
-│ 5. Inactivated_Forms.xlsx                                   │
-└─────────────────────────────────────────────────────────────┘
-                               │
-                      DATA INTEGRATION LAYER
-                      ┌─────────────────────┐
-                      │ Data Loader         │
-                      │ Data Integrator     │
-                      │ Data Validator      │
-                      └─────────────────────┘
-                               │
-                    UNIFIED DATA MODEL
-                    ┌─────────────────────┐
-                    │ Patient-Level View  │
-                    │ Site-Level View     │
-                    │ Trial-Level Metrics │
-                    └─────────────────────┘
-                               │
-                    ANALYTICS ENGINE
-                    ┌─────────────────────┐
-                    │ Data Quality Index  │
-                    │ AI Insights Engine  │
-                    │ Predictive Models   │
-                    │ Risk Assessment     │
-                    └─────────────────────┘
-                               │
-                    PRESENTATION LAYER
-                    ┌─────────────────────┐
-                    │ Streamlit Dashboard │
-                    │ Interactive Charts  │
-                    │ Export Capabilities │
-                    │ Alert System        │
+<img width="1158" height="524" alt="Image" src="https://github.com/user-attachments/assets/80e27fbb-54ee-44d6-8925-558459657118" />
 
 
 **Responsibilities:**
