@@ -36,48 +36,6 @@
 
 ## **🏗️ ARCHITECTURE**
 <img width="1135" height="492" alt="Image" src="https://github.com/user-attachments/assets/ba78aae7-adda-4ebc-b327-2b19c74d01ea" />
-### **System Architecture Diagram**
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    DATA SOURCES (9 Files)                    │
-├─────────────────────────────────────────────────────────────┤
-│ 1. CPID_EDC_Metrics.xlsx         6. Missing_Lab_Data.xlsx   │
-│ 2. Visit_Projection_Tracker.xlsx 7. SAE_Dashboard.xlsx      │
-│ 3. Missing_Pages_Report.xlsx     8. MedDRA_Coding.xlsx      │
-│ 4. Compiled_EDRR.xlsx            9. WHODD_Coding.xlsx       │
-│ 5. Inactivated_Forms.xlsx                                   │
-└─────────────────────────────────────────────────────────────┘
-                               │
-                      DATA INTEGRATION LAYER
-                      ┌─────────────────────┐
-                      │ Data Loader         │
-                      │ Data Integrator     │
-                      │ Data Validator      │
-                      └─────────────────────┘
-                               │
-                    UNIFIED DATA MODEL
-                    ┌─────────────────────┐
-                    │ Patient-Level View  │
-                    │ Site-Level View     │
-                    │ Trial-Level Metrics │
-                    └─────────────────────┘
-                               │
-                    ANALYTICS ENGINE
-                    ┌─────────────────────┐
-                    │ Data Quality Index  │
-                    │ AI Insights Engine  │
-                    │ Predictive Models   │
-                    │ Risk Assessment     │
-                    └─────────────────────┘
-                               │
-                    PRESENTATION LAYER
-                    ┌─────────────────────┐
-                    │ Streamlit Dashboard │
-                    │ Interactive Charts  │
-                    │ Export Capabilities │
-                    │ Alert System        │
-                    └─────────────────────┘
-
 
 **Responsibilities:**
 - User interface rendering
