@@ -1,0 +1,6 @@
+Metric,Value,Insight
+Total Patients,29651.0,Total enrolled patients
+Clean Patients,0.0,Patients meeting quality standards
+Critical Patients,29651.0,Patients needing immediate attention
+Avg Quality Score,10.7,Overall data quality measure
+Studies Analyzed,23.0,Number of studies analyzed

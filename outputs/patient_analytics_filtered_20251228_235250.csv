@@ -1,0 +1,2679 @@
+Patient_ID,Data_Quality_Score,Patient_Status,Risk_Level,Record_Count,Source_Count,Study_Count,Issue_Count
+Unknown_Study 6 _CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_Study 18_CPID_Input Files - Anonymization - Study 18_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_STUDY 24_CPID_Input Files - Anonymization - Study 24_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_STUDY 22_CPID_Input Files - Anonymization - CPID_EDC Metrics_URSV2.0 (2)_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_STUDY 2_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_STUDY 21_CPID_Input Files - Anonymization - CPID_EDC Metrics_URSV2.0 (1) 1_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_Study 10_CPID_Input Files - Anonymization - Study 10_CPID_EDC_Metrics_URSV2.0_14-Nov-2025_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_Study 11_CPID_Input Files - Anonymization - Study 11_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_STUDY 20__CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_Study 13_CPID_Input Files - Anonymization - Study 13_CPID_EDC_Metrics_URSV2.0_14NOV2025_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_STUDY 19_CPID_Input Files - Anonymization - Study 19_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_Study 14_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_STUDY 15_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_Study 16_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0 (3)_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_STUDY 23_CPID_Input Files - Anonymization - Study 23 - CPID_EDC Metrics_URSV2.0_13 Nov 25_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_Study 17_CPID_Input Files - Anonymization - CPID_EDC Metrics_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_Study 9_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0 (1)_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_Study 4_CPID_Input Files - Anonymization - CPID_EDC Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_Study 1_CPID_Input Files - Anonymization - Study 1_CPID_EDC_Metrics_URSV2.0_14 NOV 2025_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_Study 7_CPID_Input Files - Anonymization - Study 7_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_Study 25_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_Study 8_CPID_Input Files - Anonymization - Study 8_CPID_EDC_Metrics_URSV2.0 _13Nov2025_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Unknown_Study 5_CPID_Input Files - Anonymization - Study 5_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_1,30.8,Critical,High,1,1,1,0
+Site 2190,19.9,Critical,High,6,3,1,0
+Site 2055,18.9,Critical,High,30,3,1,0
+Site 660,18.9,Critical,High,3,3,1,0
+Site 616,18.9,Critical,High,3,3,1,0
+Site 2054,18.9,Critical,High,6,3,1,0
+Site 2039,18.9,Critical,High,12,3,1,0
+Site 670,18.9,Critical,High,6,3,1,0
+Site 681,18.9,Critical,High,3,3,1,0
+Site 2102,18.9,Critical,High,3,3,1,0
+Site 688,18.9,Critical,High,9,3,1,0
+Site 630,18.9,Critical,High,3,3,1,0
+Site 1554,18.9,Critical,High,27,3,1,0
+Site 619,18.9,Critical,High,3,3,1,0
+1059,18.8,Critical,High,2,2,1,0
+18,18.8,Critical,High,2,2,1,0
+169,18.8,Critical,High,2,2,1,0
+1069,18.8,Critical,High,2,2,1,0
+34,18.8,Critical,High,2,2,1,0
+35,18.8,Critical,High,2,2,1,0
+2,18.8,Critical,High,6,6,3,0
+225,18.8,Critical,High,2,2,1,0
+176,18.8,Critical,High,2,2,1,0
+27,18.8,Critical,High,2,2,1,0
+14,18.8,Critical,High,4,4,2,0
+13,18.8,Critical,High,6,6,3,0
+123,18.8,Critical,High,2,2,1,0
+12,18.8,Critical,High,2,2,1,0
+Site 1915,18.7,Critical,High,10,4,2,0
+Site 303,18.7,Critical,High,39,4,1,0
+Site 304,18.6,Critical,High,10,4,1,0
+Site 732,18.6,Critical,High,16,4,1,0
+ETHNIC,18.3,Critical,High,1,1,1,0
+ECINJSYN,18.3,Critical,High,1,1,1,0
+FAFAST,18.3,Critical,High,1,1,1,0
+ECDOSFRQ,18.3,Critical,High,2,2,2,0
+Unknown_Study 4_CPID_Input Files - Anonymization - CPID_EDC Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+ECEPRELI,18.3,Critical,High,1,1,1,0
+ECSPID,18.3,Critical,High,9,2,2,0
+EVTDLT,18.3,Critical,High,2,2,2,0
+Unknown_Study 5_CPID_Input Files - Anonymization - Study 5_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+EGCLSIG,18.3,Critical,High,5,1,1,0
+EGRESCD,18.3,Critical,High,2,2,2,0
+DOSPCB,18.3,Critical,High,2,1,1,0
+ESTRDIOL_LBVALUE,18.3,Critical,High,9,1,1,0
+DRUG_STDAT,18.3,Critical,High,2,2,2,0
+Unknown_Study 1_CPID_Input Files - Anonymization - Study 1_CPID_EDC_Metrics_URSV2.0_14 NOV 2025_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+Unknown_Study 25_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+Unknown_STUDY 24_CPID_Input Files - Anonymization - Study 24_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+Unknown_STUDY 23_CPID_Input Files - Anonymization - Study 23 - CPID_EDC Metrics_URSV2.0_13 Nov 25_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+Unknown_STUDY 2_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+Unknown_STUDY 22_CPID_Input Files - Anonymization - CPID_EDC Metrics_URSV2.0 (2)_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+Unknown_Study 10_CPID_Input Files - Anonymization - Study 10_CPID_EDC_Metrics_URSV2.0_14-Nov-2025_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+DSREASCH,18.3,Critical,High,1,1,1,0
+DSREASSY,18.3,Critical,High,1,1,1,0
+DRUG_DOSETXT,18.3,Critical,High,1,1,1,0
+FALOC_12,18.3,Critical,High,1,1,1,0
+Unknown_Study 11_CPID_Input Files - Anonymization - Study 11_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+Unknown_STUDY 21_CPID_Input Files - Anonymization - CPID_EDC Metrics_URSV2.0 (1) 1_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+Unknown_Study 13_CPID_Input Files - Anonymization - Study 13_CPID_EDC_Metrics_URSV2.0_14NOV2025_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+Unknown_STUDY 20__CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+Unknown_Study 14_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+Unknown_STUDY 19_CPID_Input Files - Anonymization - Study 19_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+Unknown_Study 16_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0 (3)_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+Unknown_Study 17_CPID_Input Files - Anonymization - CPID_EDC Metrics_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+Unknown_STUDY 15_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+Unknown_Study 18_CPID_Input Files - Anonymization - Study 18_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+ECBATNUM,18.3,Critical,High,1,1,1,0
+DOSPCBU,18.3,Critical,High,1,1,1,0
+ECCOVREL,18.3,Critical,High,1,1,1,0
+DTPADRAM,18.3,Critical,High,1,1,1,0
+FARESCD_19_6,18.3,Critical,High,1,1,1,0
+Unknown_Study 6 _CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+REASN7,18.3,Critical,High,2,1,1,0
+RSYN,18.3,Critical,High,2,1,1,0
+INFPAUS,18.3,Critical,High,3,1,1,0
+INJSIR,18.3,Critical,High,4,1,1,0
+RSTEST,18.3,Critical,High,1,1,1,0
+ROUTEO,18.3,Critical,High,1,1,1,0
+LDH_LBVALUE,18.3,Critical,High,7,2,2,0
+LIPASE_LBVALUE,18.3,Critical,High,4,1,1,0
+MACROBLD_LBVALUE,18.3,Critical,High,1,1,1,0
+MBMETHOD,18.3,Critical,High,1,1,1,0
+MBTEST,18.3,Critical,High,1,1,1,0
+RNIFCWD,18.3,Critical,High,1,1,1,0
+RETIP_LBVALUE,18.3,Critical,High,4,1,1,0
+RBC_LBVALUE,18.3,Critical,High,1,1,1,0
+SAE_TRT,18.3,Critical,High,2,2,2,0
+NEUTB_LBVALUE,18.3,Critical,High,2,1,1,0
+QSTIM,18.3,Critical,High,1,1,1,0
+OMHTERM,18.3,Critical,High,1,1,1,0
+QSRESCD_5,18.3,Critical,High,1,1,1,0
+QSRESCD_36,18.3,Critical,High,1,1,1,0
+QSRESCD_25,18.3,Critical,High,1,1,1,0
+ZASCAT,18.3,Critical,High,2,1,1,0
+PRINDSP,18.3,Critical,High,3,2,2,0
+PRMADM,18.3,Critical,High,2,1,1,0
+PTI_LBVALUE,18.3,Critical,High,2,1,1,0
+PRONGO,18.3,Critical,High,1,1,1,0
+PRRESCD,18.3,Critical,High,1,1,1,0
+SAE_SER,18.3,Critical,High,1,1,1,0
+HODAT,18.3,Critical,High,1,1,1,0
+Unknown_Study 7_CPID_Input Files - Anonymization - Study 7_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+WBC_LBVALUE,18.3,Critical,High,8,2,2,0
+FAOBJ,18.3,Critical,High,1,1,1,0
+FAORRESU_2,18.3,Critical,High,1,1,1,0
+Unknown_Study 8_CPID_Input Files - Anonymization - Study 8_CPID_EDC_Metrics_URSV2.0 _13Nov2025_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+Unknown_Study 9_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0 (1)_updated.xlsx - Subject Level Metrics_0,18.3,Critical,High,1,1,1,0
+FARESCD_17_1,18.3,Critical,High,1,1,1,0
+FARESCD_19_2,18.3,Critical,High,1,1,1,0
+DOSCD,18.3,Critical,High,1,1,1,0
+FARESCD_27,18.3,Critical,High,1,1,1,0
+VSPOS,18.3,Critical,High,32,1,1,0
+FARESC_1,18.3,Critical,High,2,1,1,0
+FARESC_3,18.3,Critical,High,1,1,1,0
+FARESDAT_2,18.3,Critical,High,4,4,4,0
+SVSTTM,18.3,Critical,High,2,1,1,0
+HIV12AB_LBVALUE,18.3,Critical,High,14,1,1,0
+SUNCF,18.3,Critical,High,1,1,1,0
+FASCAT,18.3,Critical,High,1,1,1,0
+FASTING_1,18.3,Critical,High,1,1,1,0
+FSH_LBVALUE,18.3,Critical,High,1,1,1,0
+GLUCPF_LBVALUE,18.3,Critical,High,1,1,1,0
+GLUCPNF_LBVALUE,18.3,Critical,High,2,1,1,0
+GLUCSN_LBVALUE,18.3,Critical,High,3,2,2,0
+SODIUM_LBVALUE,18.3,Critical,High,2,2,2,0
+HAPTOG_LBVALUE,18.3,Critical,High,4,1,1,0
+HCVRNAPC_LBVALUE,18.3,Critical,High,1,1,1,0
+HDL_LBVALUE,18.3,Critical,High,1,1,1,0
+HGHT,18.3,Critical,High,1,1,1,0
+DOSCHGYN,18.3,Critical,High,2,1,1,0
+ECOBSPYN,18.3,Critical,High,2,1,1,0
+DIFOT_LBVALUE,18.3,Critical,High,2,1,1,0
+AEREL_7,18.3,Critical,High,1,1,1,0
+AEACN_4,18.3,Critical,High,2,1,1,0
+TULOC4,18.3,Critical,High,2,1,1,0
+AEACN_6,18.3,Critical,High,1,1,1,0
+TST_HIGH,18.3,Critical,High,2,1,1,0
+APTT_LBVALUE,18.3,Critical,High,7,2,2,0
+ZORESCD,18.3,Critical,High,1,1,1,0
+TRRESCD,18.3,Critical,High,4,1,1,0
+Site 264,18.3,Critical,High,31,4,1,0
+Site 666,18.3,Critical,High,7,4,1,0
+TUNWLSID,18.3,Critical,High,4,1,1,0
+ALP_LBVALUE,18.3,Critical,High,10,3,3,0
+CEA_LBVALUE,18.3,Critical,High,1,1,1,0
+AST_LBVALUE,18.3,Critical,High,10,4,4,0
+AEREL_4,18.3,Critical,High,5,1,1,0
+BILIND_LBVALUE,18.3,Critical,High,3,1,1,0
+AERELS1,18.3,Critical,High,1,1,1,0
+BICARB_LBVALUE,18.3,Critical,High,3,1,1,0
+Site 761,18.3,Critical,High,4,4,2,0
+DIFOTLE_LBVALUE,18.3,Critical,High,2,1,1,0
+AEREL_2,18.3,Critical,High,3,1,1,0
+TURESCD,18.3,Critical,High,4,2,2,0
+UPROTCRT_LBVALUE,18.3,Critical,High,1,1,1,0
+CSAGDOS,18.3,Critical,High,1,1,1,0
+9,18.3,Critical,High,2,2,1,0
+CTADTM,18.3,Critical,High,2,1,1,0
+CVRESCD,18.3,Critical,High,1,1,1,0
+CMYN_1,18.3,Critical,High,5,1,1,0
+UBACT_LBVALUE,18.3,Critical,High,1,1,1,0
+URATE_LBVALUE,18.3,Critical,High,1,1,1,0
+TURESCD_2,18.3,Critical,High,1,1,1,0
+ZOYN,18.3,Critical,High,1,1,1,0
+TURESCD_1,18.3,Critical,High,1,1,1,0
+URNSMP,18.3,Critical,High,1,1,1,0
+AEENTIM,18.2,Critical,High,18,1,1,0
+NEUTBLE_LBVALUE,18.2,Critical,High,19,3,3,0
+AEREL_3,18.2,Critical,High,12,2,2,0
+STT,18.2,Critical,High,9,3,3,0
+ASSTIME,18.1,Critical,High,24,4,4,0
+EGMETHOD,18.1,Critical,High,11,1,1,0
+K_LBVALUE,18.1,Critical,High,10,3,3,0
+Site 1018,18.1,Critical,High,44,7,3,0
+RSRESCD_5,18.1,Critical,High,9,1,1,0
+MBRESN,18.1,Critical,High,16,1,1,0
+AESTTIM,18.1,Critical,High,34,1,1,0
+NEUT_LBVALUE,18.1,Critical,High,14,5,5,0
+FARESCD_19_5,18.1,Critical,High,9,1,1,0
+MONO_LBVALUE,18.1,Critical,High,11,3,3,0
+ECENDAT,18.0,Critical,High,218,7,7,0
+NEUTLE_LBVALUE,18.0,Critical,High,7,2,2,0
+PRLAT,18.0,Critical,High,17,1,1,0
+SUSPRECU,17.9,Critical,High,18,1,1,0
+ECENTIM,17.9,Critical,High,23,5,5,0
+Site 668,17.9,Critical,High,8,4,1,0
+HGB_LBVALUE,17.9,Critical,High,10,4,4,0
+BUN_LBVALUE,17.9,Critical,High,6,3,3,0
+BASO_LBVALUE,17.9,Critical,High,10,3,3,0
+AEOUT,17.9,Critical,High,300,12,12,0
+RSRESCD,17.9,Critical,High,53,3,3,0
+EOS_LBVALUE,17.9,Critical,High,11,4,4,0
+TULNKID,17.8,Critical,High,2,2,2,0
+BILI_LBVALUE,17.8,Critical,High,27,3,3,0
+FADAT_2,17.8,Critical,High,15,1,1,0
+FARESCD_17_3,17.8,Critical,High,8,1,1,0
+FARESCD_7,17.8,Critical,High,15,4,4,0
+AEREL_1,17.8,Critical,High,4,2,2,0
+FARESCD_21,17.8,Critical,High,8,1,1,0
+BASOLE_LBVALUE,17.8,Critical,High,9,3,3,0
+PLAT_LBVALUE,17.8,Critical,High,9,6,6,0
+IFCDAT,17.8,Critical,High,8,2,2,0
+FALOC_5,17.8,Critical,High,2,2,2,0
+CMINDSP,17.8,Critical,High,20,3,3,0
+TST_LOW,17.8,Critical,High,4,1,1,0
+AEREL_6,17.8,Critical,High,4,1,1,0
+Site 289,17.8,Critical,High,25,5,2,0
+ALB_LBVALUE,17.8,Critical,High,16,6,6,0
+TPTTXT,17.8,Critical,High,37,4,4,0
+ECDOSU,17.8,Critical,High,2,2,2,0
+SMPDLBRM,17.8,Critical,High,8,1,1,0
+CMSCAT,17.8,Critical,High,8,1,1,0
+LBFAST,17.8,Critical,High,4,3,3,0
+Site 1290,17.8,Critical,High,4,4,1,0
+TPROT_LBVALUE,17.8,Critical,High,4,1,1,0
+MONOLE_LBVALUE,17.8,Critical,High,8,3,3,0
+Site 272,17.8,Critical,High,24,4,1,0
+PRGDAT,17.8,Critical,High,8,3,3,0
+RPRESCD_1,17.8,Critical,High,8,1,1,0
+ASSDATE,17.8,Critical,High,63,7,7,0
+CA_LBVALUE,17.8,Critical,High,12,3,3,0
+Site 265,17.8,Critical,High,27,3,1,0
+SSDAT,17.7,Critical,High,10,5,5,0
+ECREASCH,17.7,Critical,High,47,8,8,0
+SAEID,17.7,Critical,High,40,6,6,0
+ECTRT,17.7,Critical,High,21,3,3,0
+PRSCAT,17.7,Critical,High,11,1,1,0
+RACECAI,17.7,Critical,High,5,3,3,0
+MHONGO,17.7,Critical,High,56,7,7,0
+Site 220,17.7,Critical,High,7,4,1,0
+ECDOSPCB,17.7,Critical,High,35,6,6,0
+RETI_LBVALUE,17.7,Critical,High,29,2,2,0
+FARESCD_5,17.7,Critical,High,11,3,3,0
+ECVMEVT,17.7,Critical,High,5,3,3,0
+EGFR_LBVALUE,17.7,Critical,High,7,3,3,0
+PHOS_LBVALUE,17.6,Critical,High,6,3,3,0
+AERELNST,17.6,Critical,High,3,1,1,0
+Site 1691,17.6,Critical,High,37,4,1,0
+QSRESCD,17.6,Critical,High,6,4,4,0
+ZADSTXT,17.6,Critical,High,3,1,1,0
+Site 2064,17.6,Critical,High,28,3,1,0
+FARESN_7,17.6,Critical,High,3,1,1,0
+FARSFLT,17.6,Critical,High,3,2,2,0
+LBDAT,17.6,Critical,High,125,12,12,0
+INJSYR,17.6,Critical,High,3,2,2,0
+LLTDTRT1,17.6,Critical,High,3,1,1,0
+FARSFLT_3,17.6,Critical,High,3,1,1,0
+INR_LBVALUE,17.6,Critical,High,3,2,2,0
+IFCND,17.6,Critical,High,6,4,4,0
+SMPTAK,17.6,Critical,High,49,12,12,0
+LYM_LBVALUE,17.6,Critical,High,30,6,6,0
+LYMLE_LBVALUE,17.6,Critical,High,9,3,3,0
+RDACTMS,17.6,Critical,High,3,1,1,0
+FARESDAT_1,17.6,Critical,High,3,3,3,0
+ECSTDAT,17.6,Critical,High,169,12,12,0
+ALT_LBVALUE,17.6,Critical,High,6,4,4,0
+ECTYCHG,17.6,Critical,High,38,6,6,0
+TST_RSLTADD,17.6,Critical,High,3,3,3,0
+TRTARM,17.6,Critical,High,3,1,1,0
+FARESCD_18,17.6,Critical,High,11,2,2,0
+MBDAT,17.5,Critical,High,10,1,1,0
+TUYN,17.5,Critical,High,11,6,6,0
+ECREASDC,17.5,Critical,High,45,2,2,0
+FARESCD_14,17.5,Critical,High,5,2,2,0
+BILDIR_LBVALUE,17.5,Critical,High,12,4,4,0
+ECLAT,17.5,Critical,High,5,2,2,0
+CMENDT,17.5,Critical,High,5,3,3,0
+Site 636,17.5,Critical,High,6,4,2,0
+GGT_LBVALUE,17.5,Critical,High,8,3,3,0
+CESTDAT,17.5,Critical,High,4,1,1,0
+CMCAT,17.5,Critical,High,12,3,3,0
+AEACN,17.5,Critical,High,301,10,10,0
+ECDOSE,17.5,Critical,High,80,10,10,0
+ECSTTIM,17.5,Critical,High,23,5,5,0
+VSTIM,17.5,Critical,High,19,3,3,0
+TST_NAME,17.5,Critical,High,24,5,5,0
+RACECAS,17.5,Critical,High,4,1,1,0
+GNDRV,17.5,Critical,High,21,7,7,0
+MG_LBVALUE,17.5,Critical,High,32,3,3,0
+PSTADMR,17.5,Critical,High,8,3,3,0
+RPRESCD,17.5,Critical,High,26,1,1,0
+TUMINV,17.4,Critical,High,7,1,1,0
+AESHOSP,17.4,Critical,High,39,5,5,0
+SEX,17.4,Critical,High,22,2,2,0
+SVSTDT,17.4,Critical,High,1067,19,18,0
+AEACN_2,17.4,Critical,High,17,3,3,0
+PCDAT,17.4,Critical,High,123,8,8,0
+ECLOC2,17.4,Critical,High,14,1,1,0
+AMYLASE_LBVALUE,17.4,Critical,High,7,2,2,0
+AEENDPYN,17.4,Critical,High,33,1,1,0
+CMDOSTXT,17.4,Critical,High,38,3,3,0
+EGDAT,17.4,Critical,High,23,6,6,0
+DVCRRAT,17.3,Critical,High,4,1,1,0
+Site 738,17.3,Critical,High,5,4,1,0
+Site 718,17.3,Critical,High,5,4,1,0
+EOSLE_LBVALUE,17.3,Critical,High,16,3,3,0
+NONDRUG,17.3,Critical,High,4,2,2,0
+CEOCCUR,17.3,Critical,High,1,1,1,0
+CMENDAT_AUTO04,17.3,Critical,High,2,2,2,0
+RSRESCD_1,17.3,Critical,High,2,2,2,0
+INV_RTNL2,17.3,Critical,High,1,1,1,0
+INV_RTNL8,17.3,Critical,High,1,1,1,0
+Site 710,17.3,Critical,High,10,4,1,0
+PRTAMDVN,17.3,Critical,High,54,4,4,0
+LIPASET_LBVALUE,17.3,Critical,High,2,1,1,0
+CESCAT,17.3,Critical,High,1,1,1,0
+TRREASCD,17.3,Critical,High,6,2,2,0
+ZLRESCD,17.3,Critical,High,2,1,1,0
+RESTKND,17.3,Critical,High,7,5,5,0
+MIRESCD,17.3,Critical,High,26,1,1,0
+SAE_OTMED2,17.3,Critical,High,2,2,2,0
+FAORRESU_4,17.3,Critical,High,4,1,1,0
+WT,17.3,Critical,High,2,2,2,0
+TUTNUM,17.3,Critical,High,1,1,1,0
+FARESCD_21_2,17.3,Critical,High,3,2,2,0
+DDRESC_2,17.3,Critical,High,6,1,1,0
+Site 656,17.3,Critical,High,5,4,1,0
+AGE,17.3,Critical,High,15,6,6,0
+FARESDAT_4,17.3,Critical,High,2,1,1,0
+Site 647,17.3,Critical,High,5,4,1,0
+UCRYSTLC_LBVALUE,17.3,Critical,High,2,1,1,0
+PRMETHOD,17.3,Critical,High,23,9,8,0
+FARESCD_19,17.3,Critical,High,2,2,2,0
+VSDAT,17.3,Critical,High,28,10,10,0
+TULOCDTL,17.3,Critical,High,7,3,3,0
+QSDAT,17.3,Critical,High,6,3,3,0
+FUPAGRE,17.3,Critical,High,1,1,1,0
+Site 1921,17.3,Critical,High,23,5,2,0
+Site 348,17.3,Critical,High,19,5,2,0
+OPYN,17.3,Critical,High,3,1,1,0
+FARESCD_13,17.3,Critical,High,2,1,1,0
+HOOCCUR,17.3,Critical,High,1,1,1,0
+AESEV,17.3,Critical,High,17,3,3,0
+PREADTIM,17.3,Critical,High,6,4,4,0
+AEACN_3,17.3,Critical,High,2,2,2,0
+FAORRESU_1,17.3,Critical,High,25,1,1,0
+VERESOC1,17.3,Critical,High,1,1,1,0
+MHYN,17.2,Critical,High,33,12,12,0
+FARESCD_6,17.2,Critical,High,21,4,4,0
+UREA_LBVALUE,17.2,Critical,High,7,2,2,0
+FARESCD_8,17.2,Critical,High,41,5,5,0
+PROCCUR,17.2,Critical,High,33,2,2,0
+Site 601,17.2,Critical,High,25,3,1,0
+FARESCD_3,17.2,Critical,High,15,6,6,0
+FARESN_1,17.2,Critical,High,7,1,1,0
+FARESN_6,17.2,Critical,High,45,2,1,0
+ECLOC,17.2,Critical,High,21,3,3,0
+AEREL,17.2,Critical,High,47,6,6,0
+PREADMR,17.2,Critical,High,7,3,3,0
+TRTINTNT,17.1,Critical,High,4,4,4,0
+TRRESN,17.1,Critical,High,8,4,3,0
+DDRESCD_4,17.1,Critical,High,18,1,1,0
+DSSCAT,17.1,Critical,High,22,10,10,0
+CRNUM,17.1,Critical,High,21,9,8,0
+RDACTDAT,17.1,Critical,High,18,2,2,0
+CREAT_LBVALUE,17.1,Critical,High,24,3,3,0
+CMDSTXT,17.1,Critical,High,71,7,7,0
+PRSTTIM,17.1,Critical,High,12,4,4,0
+FARESCD_12,17.1,Critical,High,13,2,2,0
+FATIM,17.1,Critical,High,5,2,2,0
+AETERM,17.1,Critical,High,306,17,17,0
+FARESCD_17,17.1,Critical,High,8,1,1,0
+AESER,17.1,Critical,High,27,5,5,0
+VSRESN,17.1,Critical,High,261,18,16,0
+FADAT,17.1,Critical,High,28,3,3,0
+IMGUSED,17.1,Critical,High,16,6,4,0
+FARESCD_9,17.1,Critical,High,16,4,4,0
+FARESCD_2,17.1,Critical,High,30,7,7,0
+MBTIM,17.1,Critical,High,5,1,1,0
+CMDOSU,17.1,Critical,High,29,7,7,0
+SSRESCD,17.1,Critical,High,15,4,4,0
+MHENDAT,17.1,Critical,High,5,3,3,0
+MHOCCUR,17.1,Critical,High,5,2,2,0
+FARESCD_1,17.1,Critical,High,57,8,8,0
+AEACNS2,17.0,Critical,High,3,2,2,0
+FARESCD_15,17.0,Critical,High,3,1,1,0
+AESPID,17.0,Critical,High,3,2,2,0
+AECONTRT,17.0,Critical,High,437,16,16,0
+VETERM,17.0,Critical,High,46,6,6,0
+AETOXGR,17.0,Critical,High,31,7,7,0
+ZJBMTP,17.0,Critical,High,3,2,2,0
+PSTADTIM,17.0,Critical,High,3,2,2,0
+FARESCD_4,17.0,Critical,High,9,4,4,0
+FARESN,17.0,Critical,High,17,2,2,0
+DSSTDAT,17.0,Critical,High,406,21,20,0
+AEACN_1,17.0,Critical,High,3,2,2,0
+HBVDNA_LBVALUE,17.0,Critical,High,3,2,2,0
+REASND,17.0,Critical,High,27,1,1,0
+RESTHY,17.0,Critical,High,3,2,2,0
+CACALC_LBVALUE,17.0,Critical,High,3,1,1,0
+EGRESN,17.0,Critical,High,102,13,10,0
+FALOC_7,17.0,Critical,High,3,2,2,0
+IEYN,17.0,Critical,High,29,9,9,0
+SAETERM,17.0,Critical,High,6,3,3,0
+HOREAS,17.0,Critical,High,3,1,1,0
+CMRSDISC,17.0,Critical,High,22,5,4,0
+FAORRESU,17.0,Critical,High,3,1,1,0
+QSRESN,17.0,Critical,High,6,2,1,0
+VEOCCUR,17.0,Critical,High,209,12,12,0
+Site 324,17.0,Critical,High,41,4,2,0
+PCTIM,17.0,Critical,High,29,7,7,0
+VSORRESU,17.0,Critical,High,26,6,6,0
+Site 651,16.9,Critical,High,12,4,1,0
+RDACTTIM,16.9,Critical,High,18,2,2,0
+SENTVND,16.9,Critical,High,34,3,3,0
+FARSFLT_1,16.9,Critical,High,7,1,1,0
+CMROUTE,16.9,Critical,High,11,5,5,0
+FARESCD_11,16.9,Critical,High,11,4,4,0
+PRLOC,16.9,Critical,High,24,8,7,0
+MHTOXGR,16.9,Critical,High,41,7,7,0
+MHTERM,16.9,Critical,High,221,18,18,0
+FARESCD,16.9,Critical,High,13,3,3,0
+IECAT,16.9,Critical,High,11,5,5,0
+DSDECOD,16.9,Critical,High,210,16,16,0
+112,16.9,Critical,High,5,5,3,0
+GLUCSF_LBVALUE,16.8,Critical,High,4,2,2,0
+CMONGO,16.8,Critical,High,14,5,5,0
+DECSYDC,16.8,Critical,High,36,6,6,0
+CMDOSFRQ,16.8,Critical,High,27,7,7,0
+ACTMENDC,16.8,Critical,High,13,1,1,0
+FARESDAT,16.8,Critical,High,9,4,4,0
+FARESC_2,16.8,Critical,High,2,2,2,0
+QSTSTLG,16.8,Critical,High,2,2,2,0
+HCT_LBVALUE,16.8,Critical,High,4,4,4,0
+Site 800,16.8,Critical,High,86,5,2,0
+VEREASOC,16.8,Critical,High,8,4,4,0
+DVSHDESC,16.8,Critical,High,64,3,3,0
+PREADMRU,16.8,Critical,High,2,2,2,0
+MHCONTRT,16.7,Critical,High,5,1,1,0
+Site 1664,16.7,Critical,High,55,3,1,0
+AEENDPY,16.7,Critical,High,12,1,1,0
+CEREFID,16.7,Critical,High,30,3,2,0
+CETERM,16.7,Critical,High,6,1,1,0
+Site 57,16.7,Critical,High,64,4,2,0
+Site 270,16.7,Critical,High,17,4,1,0
+CMDRG_AUTO04,16.7,Critical,High,5,3,3,0
+AAMPREL,16.7,Critical,High,8,2,2,0
+TULOC,16.7,Critical,High,10,5,5,0
+AETERMG,16.7,Critical,High,15,1,1,0
+ZJLSTYP,16.7,Critical,High,3,3,3,0
+PRLOCOTH,16.7,Critical,High,3,2,2,0
+SSTAT,16.7,Critical,High,390,20,20,0
+FARSFLT_2,16.7,Critical,High,17,5,5,0
+INV_AD1,16.7,Critical,High,3,2,2,0
+FARESCD_10,16.7,Critical,High,85,5,5,0
+ECOCCUR,16.7,Critical,High,29,4,4,0
+TUMSDIS,16.6,Critical,High,8,1,1,0
+AEACN_5,16.6,Critical,High,7,1,1,0
+ECREASOC,16.6,Critical,High,20,4,4,0
+ZJCAT,16.6,Critical,High,15,3,3,0
+SSRESDAT,16.6,Critical,High,10,3,2,0
+PRTORGVN,16.6,Critical,High,139,10,10,0
+AESI,16.6,Critical,High,7,2,2,0
+PRSTDAT,16.6,Critical,High,109,17,13,0
+Site 1653,16.6,Critical,High,16,3,1,0
+Site 152,16.6,Critical,High,4,4,1,0
+CMTRT,16.5,Critical,High,422,20,18,0
+PRTRT,16.5,Critical,High,90,11,11,0
+CMYN,16.5,Critical,High,227,16,16,0
+ASSNAME,16.5,Critical,High,25,10,10,0
+FALOC_2,16.5,Critical,High,5,2,2,0
+FALOC_99,16.5,Critical,High,11,2,2,0
+MID,16.5,Critical,High,50,8,8,0
+DSCOVREL,16.5,Critical,High,5,1,1,0
+ZJDAT,16.5,Critical,High,14,6,6,0
+PRSTAT,16.5,Critical,High,7,3,3,0
+SAE_ENDT,16.5,Critical,High,58,11,10,0
+Site 779,16.5,Critical,High,6,4,1,0
+AEACN_7,16.5,Critical,High,18,1,1,0
+PRYN,16.4,Critical,High,61,11,11,0
+Site 2124,16.4,Critical,High,32,5,2,0
+Site 981,16.4,Critical,High,107,6,2,0
+DRUG_ROUTE,16.4,Critical,High,25,2,2,0
+Site 2021,16.4,Critical,High,114,5,2,0
+PRTPT,16.3,Critical,High,4,2,2,0
+Unknown_STUDY 19_CPID_Input Files - Anonymization - Study 19_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+DRUG_1_REDUDT,16.3,Critical,High,1,1,1,0
+Unknown_STUDY 15_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+DRUG_1_INCRD,16.3,Critical,High,2,1,1,0
+DRUG_ACN,16.3,Critical,High,115,6,6,0
+DRUG_DECHLNG,16.3,Critical,High,4,3,3,0
+USPGRST_LBVALUE,16.3,Critical,High,2,1,1,0
+Unknown_STUDY 20__CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+DRUG_1_ENDT,16.3,Critical,High,1,1,1,0
+DRUG_ENDT,16.3,Critical,High,1,1,1,0
+Site 93,16.3,Critical,High,7,4,1,0
+ABHCVIGG_LBVALUE,16.3,Critical,High,1,1,1,0
+Unknown_STUDY 21_CPID_Input Files - Anonymization - CPID_EDC Metrics_URSV2.0 (1) 1_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+Unknown_Study 11_CPID_Input Files - Anonymization - Study 11_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+ZJLSDM,16.3,Critical,High,1,1,1,0
+Unknown_Study 10_CPID_Input Files - Anonymization - Study 10_CPID_EDC_Metrics_URSV2.0_14-Nov-2025_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+DSREAS2,16.3,Critical,High,1,1,1,0
+Unknown_STUDY 2_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+Unknown_STUDY 24_CPID_Input Files - Anonymization - Study 24_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+DSCAT,16.3,Critical,High,1,1,1,0
+DRUG_TRT,16.3,Critical,High,1,1,1,0
+Unknown_STUDY 23_CPID_Input Files - Anonymization - Study 23 - CPID_EDC Metrics_URSV2.0_13 Nov 25_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+DRUG_ROUTE_1,16.3,Critical,High,3,1,1,0
+AERELS4,16.3,Critical,High,1,1,1,0
+Unknown_STUDY 22_CPID_Input Files - Anonymization - CPID_EDC Metrics_URSV2.0 (2)_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+DRUG_LSDT,16.3,Critical,High,1,1,1,0
+AESLIFE,16.3,Critical,High,4,3,3,0
+DRUG_FRQ,16.3,Critical,High,2,2,2,0
+Site 291,16.3,Critical,High,27,4,1,0
+AGDOSE,16.3,Critical,High,2,1,1,0
+UROBILST_LBVALUE,16.3,Critical,High,2,1,1,0
+ZLDAT,16.3,Critical,High,1,1,1,0
+B1METOTH,16.3,Critical,High,1,1,1,0
+DURSFLT_2,16.3,Critical,High,1,1,1,0
+ZJSTTIM,16.3,Critical,High,1,1,1,0
+B1PERF,16.3,Critical,High,2,2,2,0
+B1RESCD,16.3,Critical,High,1,1,1,0
+B1RSFLT,16.3,Critical,High,1,1,1,0
+B1SPEC,16.3,Critical,High,2,1,1,0
+Site 2090,16.3,Critical,High,37,3,1,0
+CMINDC1,16.3,Critical,High,1,1,1,0
+ACCNNDC,16.3,Critical,High,3,1,1,0
+Site 1163,16.3,Critical,High,123,9,4,0
+TSH_LBVALUE,16.3,Critical,High,1,1,1,0
+CMENDAT,16.3,Critical,High,194,19,15,0
+AEREL18F,16.3,Critical,High,2,1,1,0
+B1SRC,16.3,Critical,High,1,1,1,0
+CHGDAT,16.3,Critical,High,5,1,1,0
+AEREFID,16.3,Critical,High,2,1,1,0
+Site 2122,16.3,Critical,High,105,5,2,0
+AEACNSB,16.3,Critical,High,2,1,1,0
+CMYN_2,16.3,Critical,High,1,1,1,0
+CONCAT,16.3,Critical,High,1,1,1,0
+B1METHOD,16.3,Critical,High,2,1,1,0
+AEYN,16.3,Critical,High,199,16,16,0
+DEATH_AUTO,16.3,Critical,High,4,2,2,0
+URBC_LBVALUE,16.3,Critical,High,2,1,1,0
+Site 2127,16.3,Critical,High,17,4,2,0
+AGSTTIM,16.3,Critical,High,1,1,1,0
+DDRESC,16.3,Critical,High,3,2,2,0
+CVRESN,16.3,Critical,High,3,1,1,0
+UPHST_LBVALUE,16.3,Critical,High,2,1,1,0
+UGLUCST_LBVALUE,16.3,Critical,High,1,1,1,0
+ASNAM,16.3,Critical,High,2,1,1,0
+ASNAMOTH,16.3,Critical,High,1,1,1,0
+CSMOUTH,16.3,Critical,High,1,1,1,0
+UCOLOR_LBVALUE,16.3,Critical,High,2,1,1,0
+UCASTQ_LBVALUE,16.3,Critical,High,3,1,1,0
+UBLOST_LBVALUE,16.3,Critical,High,1,1,1,0
+B1DAT,16.3,Critical,High,1,1,1,0
+CREATCLR_LBVALUE,16.3,Critical,High,1,1,1,0
+DURSFLT_1,16.3,Critical,High,2,2,2,0
+DUDAT,16.3,Critical,High,1,1,1,0
+Unknown_Study 13_CPID_Input Files - Anonymization - Study 13_CPID_EDC_Metrics_URSV2.0_14NOV2025_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+SARM,16.3,Critical,High,3,1,1,0
+MHSTDAT,16.3,Critical,High,114,21,17,0
+REASN1,16.3,Critical,High,3,1,1,0
+HCVRNAPT_LBVALUE,16.3,Critical,High,1,1,1,0
+HBSAGC_LBVALUE,16.3,Critical,High,2,1,1,0
+SMPTP,16.3,Critical,High,1,1,1,0
+MLSTTIM,16.3,Critical,High,4,1,1,0
+MLYN,16.3,Critical,High,3,1,1,0
+PCENTIM,16.3,Critical,High,1,1,1,0
+FAYN,16.3,Critical,High,1,1,1,0
+SUCAT,16.3,Critical,High,1,1,1,0
+Site 1751,16.3,Critical,High,17,4,2,0
+SUNCF_1,16.3,Critical,High,1,1,1,0
+SUTRT_1,16.3,Critical,High,1,1,1,0
+INV_RTNL,16.3,Critical,High,187,13,13,0
+FARESDAT_8,16.3,Critical,High,1,1,1,0
+QSRESCD_3,16.3,Critical,High,1,1,1,0
+FARESCD_30,16.3,Critical,High,1,1,1,0
+SCTMRI,16.3,Critical,High,3,1,1,0
+SAE_TRT_3,16.3,Critical,High,1,1,1,0
+FARESCD_17_7,16.3,Critical,High,1,1,1,0
+SAE_TRT_1,16.3,Critical,High,6,1,1,0
+INV_RTNL1,16.3,Critical,High,1,1,1,0
+IFCWDDAT,16.3,Critical,High,1,1,1,0
+IFCCAT,16.3,Critical,High,4,1,1,0
+INV_RTNL3,16.3,Critical,High,1,1,1,0
+SAE_CAU,16.3,Critical,High,1,1,1,0
+LABTP,16.3,Critical,High,4,1,1,0
+SAE_DRG2,16.3,Critical,High,1,1,1,0
+SAE_DRG4,16.3,Critical,High,1,1,1,0
+SAE_HOSP2,16.3,Critical,High,1,1,1,0
+MEASGAFF,16.3,Critical,High,1,1,1,0
+RGMNUM,16.3,Critical,High,3,3,3,0
+MEDSUB,16.3,Critical,High,1,1,1,0
+MEDSUB29,16.3,Critical,High,1,1,1,0
+RESTRT,16.3,Critical,High,1,1,1,0
+SAE_STDT,16.3,Critical,High,40,6,6,0
+MEDSUB35,16.3,Critical,High,1,1,1,0
+MHLAT,16.3,Critical,High,1,1,1,0
+FARESCD_29,16.3,Critical,High,1,1,1,0
+ZWDAT,16.3,Critical,High,1,1,1,0
+ECDOSFRM,16.3,Critical,High,2,2,2,0
+PRYN_1,16.3,Critical,High,1,1,1,0
+Unknown_Study 5_CPID_Input Files - Anonymization - Study 5_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+EGTIM,16.3,Critical,High,3,1,1,0
+Unknown_Study 4_CPID_Input Files - Anonymization - CPID_EDC Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+ECDOSPU,16.3,Critical,High,1,1,1,0
+Unknown_Study 25_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+VOLSAMS,16.3,Critical,High,3,1,1,0
+Unknown_Study 1_CPID_Input Files - Anonymization - Study 1_CPID_EDC_Metrics_URSV2.0_14 NOV 2025_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+FALOC_13,16.3,Critical,High,1,1,1,0
+DVRLCYN,16.3,Critical,High,1,1,1,0
+Unknown_Study 16_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0 (3)_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+ECDOSCH,16.3,Critical,High,1,1,1,0
+PSTADDAT,16.3,Critical,High,1,1,1,0
+ECDIR,16.3,Critical,High,3,1,1,0
+DVRLDPYN,16.3,Critical,High,1,1,1,0
+Unknown_Study 17_CPID_Input Files - Anonymization - CPID_EDC Metrics_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+PSTADMRU,16.3,Critical,High,2,1,1,0
+QSRESCD_20,16.3,Critical,High,1,1,1,0
+Unknown_Study 7_CPID_Input Files - Anonymization - Study 7_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+FARESCD_16,16.3,Critical,High,1,1,1,0
+VEPRESP,16.3,Critical,High,1,1,1,0
+Unknown_Study 9_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0 (1)_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+DVCRDAT,16.3,Critical,High,7,2,2,0
+Unknown_Study 8_CPID_Input Files - Anonymization - Study 8_CPID_EDC_Metrics_URSV2.0 _13Nov2025_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+FAPRYN,16.3,Critical,High,2,1,1,0
+FAORRESU_3,16.3,Critical,High,1,1,1,0
+Unknown_Study 18_CPID_Input Files - Anonymization - Study 18_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+Unknown_Study 14_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+FALOC_3,16.3,Critical,High,1,1,1,0
+Unknown_Study 6 _CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Subject Level Metrics_2,16.3,Critical,High,1,1,1,0
+FALOC_16,16.3,Critical,High,2,1,1,0
+DVMRDAT,16.3,Critical,High,1,1,1,0
+ECDOSDIS,16.2,Critical,High,47,5,5,0
+Site 677,16.2,Critical,High,8,4,1,0
+AESDTH,16.2,Critical,High,9,3,3,0
+CMSTDAT,16.2,Critical,High,236,22,16,0
+Site 275,16.2,Critical,High,6,5,2,0
+Site 2067,16.2,Critical,High,17,3,1,0
+Site 1057,16.1,Critical,High,78,8,4,0
+Site 2180,16.1,Critical,High,22,5,2,0
+SAE_OUT,16.1,Critical,High,4,3,3,0
+Site 2107,16.1,Critical,High,13,3,1,0
+Site 1167,16.1,Critical,High,47,4,2,0
+Site 2099,16.1,Critical,High,30,3,1,0
+Site 2094,16.1,Critical,High,301,7,2,0
+CMLDOS,16.1,Critical,High,20,4,3,0
+Site 2000,16.1,Critical,High,13,3,1,0
+NUMCY,16.1,Critical,High,23,6,5,0
+Site 299,16.1,Critical,High,68,6,2,0
+AESCONG,16.0,Critical,High,3,3,3,0
+Site 262,16.0,Critical,High,46,5,2,0
+Site 26,16.0,Critical,High,26,4,2,0
+Site 1235,16.0,Critical,High,100,5,2,0
+Site 294,16.0,Critical,High,27,7,2,0
+AESDISAB,16.0,Critical,High,3,3,3,0
+HOSTDAT,16.0,Critical,High,8,2,1,0
+Site 1686,16.0,Critical,High,32,4,1,0
+TCASEID,16.0,Critical,High,3,1,1,0
+148,16.0,Critical,High,3,3,2,0
+ECCAT,16.0,Critical,High,3,2,2,0
+FXCMB,16.0,Critical,High,3,1,1,0
+HOYN,16.0,Critical,High,3,2,2,0
+Site 1922,16.0,Critical,High,74,4,2,0
+AESMIE,15.9,Critical,High,2,2,2,0
+Site 1649,15.9,Critical,High,59,4,2,0
+RACECWT,15.9,Critical,High,2,2,2,0
+AERELDEV,15.9,Critical,High,2,1,1,0
+GNDRV1,15.9,Critical,High,12,4,3,0
+ZJLSID,15.9,Critical,High,2,2,2,0
+SRITE,15.9,Critical,High,2,1,1,0
+Site 1913,15.9,Critical,High,7,4,1,0
+INVDT,15.9,Critical,High,81,8,8,0
+SAE_DRG1,15.9,Critical,High,2,2,2,0
+CMINDC,15.8,Critical,High,21,4,3,0
+Site 1804,15.8,Critical,High,27,3,1,0
+SPVLBDL,15.8,Critical,High,20,2,1,0
+RDMTIM,15.8,Critical,High,9,1,1,0
+Site 295,15.8,Critical,High,87,8,3,0
+Site 2092,15.8,Critical,High,18,3,1,0
+Site 297,15.8,Critical,High,268,9,3,0
+Site 1350,15.7,Critical,High,485,9,3,0
+TSTYN,15.7,Critical,High,106,8,8,0
+Site 1654,15.7,Critical,High,59,3,1,0
+Site 1284,15.7,Critical,High,23,6,2,0
+Site 305,15.7,Critical,High,24,4,1,0
+Site 1840,15.7,Critical,High,27,5,2,0
+NULLIFY,15.7,Critical,High,31,4,4,0
+HOENDAT,15.7,Critical,High,7,3,2,0
+Site 1214,15.6,Critical,High,37,4,2,0
+Site 2160,15.6,Critical,High,358,6,2,0
+Site 2097,15.6,Critical,High,152,7,2,0
+Site 2084,15.6,Critical,High,23,3,1,0
+Site 879,15.6,Critical,High,141,13,5,0
+AEPNDYN,15.6,Critical,High,8,1,1,0
+TEST_RSLT,15.6,Critical,High,15,5,5,0
+Site 1668,15.6,Critical,High,88,3,1,0
+Site 266,15.6,Critical,High,42,5,2,0
+Site 1651,15.6,Critical,High,14,3,1,0
+Site 2131,15.6,Critical,High,42,3,1,0
+Site 296,15.5,Critical,High,22,4,1,0
+Site 276,15.5,Critical,High,11,4,1,0
+Site 1396,15.5,Critical,High,84,8,3,0
+Site 273,15.5,Critical,High,24,5,2,0
+Site 1736,15.5,Critical,High,75,7,2,0
+Site 2042,15.5,Critical,High,554,6,2,0
+Site 1553,15.5,Critical,High,178,7,2,0
+Site 1811,15.5,Critical,High,83,5,2,0
+Site 278,15.5,Critical,High,55,4,1,0
+Site 609,15.5,Critical,High,22,5,2,0
+Site 787,15.5,Critical,High,76,4,2,0
+Site 767,15.5,Critical,High,21,4,2,0
+Site 1130,15.4,Critical,High,20,4,1,0
+Site 600,15.4,Critical,High,11,4,1,0
+SMPNO,15.4,Critical,High,1,1,1,0
+Site 2008,15.4,Critical,High,242,11,3,0
+ZJTIM,15.4,Critical,High,1,1,1,0
+Site 271,15.4,Critical,High,67,5,2,0
+Site 607,15.4,Critical,High,33,4,1,0
+RADACTM,15.4,Critical,High,7,1,1,0
+SAE_OTHER,15.4,Critical,High,969,8,8,0
+CMROUTE_1,15.4,Critical,High,1,1,1,0
+Site 2081,15.4,Critical,High,117,5,2,0
+AEACNDEV,15.4,Critical,High,1,1,1,0
+HOTERM,15.4,Critical,High,2,1,1,0
+TURESCD1,15.4,Critical,High,1,1,1,0
+Site 2070,15.4,Critical,High,14,5,2,0
+Site 613,15.4,Critical,High,11,4,1,0
+AMPREL,15.4,Critical,High,1,1,1,0
+RACECBL,15.4,Critical,High,1,1,1,0
+DUYN,15.4,Critical,High,1,1,1,0
+PRMTD,15.4,Critical,High,1,1,1,0
+Site 2133,15.4,Critical,High,50,5,2,0
+Site 432,15.4,Critical,High,33,5,2,0
+ZAYN,15.4,Critical,High,2,2,2,0
+PRENDAT,15.4,Critical,High,26,10,7,0
+INV_RTNL9,15.4,Critical,High,1,1,1,0
+RPTR_FSTNM,15.4,Critical,High,1,1,1,0
+RNINTHY,15.4,Critical,High,1,1,1,0
+Site 339,15.4,Critical,High,147,12,4,0
+Site 1670,15.3,Critical,High,80,5,2,0
+Site 1650,15.3,Critical,High,103,3,1,0
+Site 2187,15.3,Critical,High,93,7,2,0
+AEENDAT,15.3,Critical,High,186,17,14,0
+Site 2114,15.3,Critical,High,11,4,2,0
+Site 2113,15.3,Critical,High,25,4,1,0
+Site 2103,15.3,Critical,High,44,3,1,0
+Site 2073,15.3,Critical,High,26,5,2,0
+Site 1749,15.3,Critical,High,173,5,2,0
+Site 340,15.3,Critical,High,129,7,2,0
+Site 1067,15.3,Critical,High,106,9,2,0
+Site 1927,15.3,Critical,High,25,4,2,0
+Site 1934,15.3,Critical,High,339,5,2,0
+Site 2159,15.3,Critical,High,22,4,1,0
+Site 1759,15.3,Critical,High,139,5,2,0
+Site 2040,15.3,Critical,High,64,4,2,0
+Site 2009,15.3,Critical,High,66,5,2,0
+Site 1224,15.3,Critical,High,51,5,2,0
+Site 2024,15.3,Critical,High,65,7,2,0
+Site 2004,15.2,Critical,High,30,3,1,0
+Site 1980,15.2,Critical,High,142,6,2,0
+Site 1760,15.2,Critical,High,45,3,1,0
+Site 1275,15.2,Critical,High,21,4,2,0
+Site 1797,15.2,Critical,High,145,4,2,0
+Site 2140,15.2,Critical,High,20,3,1,0
+Site 1802,15.2,Critical,High,30,3,1,0
+Site 1124,15.2,Critical,High,84,4,2,0
+Site 1812,15.2,Critical,High,12,4,2,0
+Site 1733,15.2,Critical,High,11,4,2,0
+Site 2150,15.2,Critical,High,787,7,2,0
+Site 1794,15.2,Critical,High,10,3,1,0
+Site 1871,15.2,Critical,High,85,4,2,0
+Site 1165,15.2,Critical,High,20,4,2,0
+Site 1563,15.2,Critical,High,56,5,2,0
+Site 1188,15.2,Critical,High,152,10,4,0
+Site 1556,15.2,Critical,High,124,4,2,0
+Site 1182,15.2,Critical,High,207,10,4,0
+ZATRT,15.2,Critical,High,6,1,1,0
+Site 1153,15.2,Critical,High,142,9,3,0
+Site 2253,15.2,Critical,High,31,4,1,0
+Site 2062,15.1,Critical,High,105,6,2,0
+SUENDAT,15.1,Critical,High,3,2,1,0
+Site 2077,15.1,Critical,High,26,4,2,0
+Site 2117,15.1,Critical,High,153,7,2,0
+Site 1742,15.1,Critical,High,94,5,2,0
+DRUG_DOSE,15.1,Critical,High,16,7,4,0
+Site 1073,15.1,Critical,High,95,10,4,0
+Site 2089,15.1,Critical,High,64,5,2,0
+Site 1660,15.1,Critical,High,56,3,1,0
+Site 1192,15.1,Critical,High,51,6,2,0
+Site 1912,15.1,Critical,High,44,4,1,0
+Site 1187,15.1,Critical,High,33,9,2,0
+Site 604,15.1,Critical,High,23,4,1,0
+Site 310,15.1,Critical,High,26,5,2,0
+Site 2029,15.1,Critical,High,284,8,2,0
+Site 2175,15.1,Critical,High,44,6,2,0
+Site 293,15.1,Critical,High,142,11,4,0
+Site 1666,15.1,Critical,High,154,5,2,0
+Site 1120,15.0,Critical,High,86,8,3,0
+Site 2086,15.0,Critical,High,68,6,2,0
+Site 1985,15.0,Critical,High,79,4,2,0
+Site 531,15.0,Critical,High,5,3,1,0
+Site 1164,15.0,Critical,High,548,10,4,0
+Site 557,15.0,Critical,High,171,7,2,0
+Site 1084,15.0,Critical,High,233,10,4,0
+Site 290,15.0,Critical,High,78,6,2,0
+Site 2043,15.0,Critical,High,230,10,4,0
+Site 1692,15.0,Critical,High,315,6,2,0
+Site 1087,15.0,Critical,High,60,6,2,0
+Site 1732,15.0,Critical,High,81,5,2,0
+Site 1339,15.0,Critical,High,432,9,4,0
+Site 328,15.0,Critical,High,143,10,4,0
+Site 2121,15.0,Critical,High,53,4,2,0
+DTHDAT,15.0,Critical,High,16,2,1,0
+Site 1655,15.0,Critical,High,72,3,1,0
+Site 2185,15.0,Critical,High,90,5,2,0
+Site 2143,15.0,Critical,High,147,7,2,0
+Site 2129,15.0,Critical,High,31,4,2,0
+Site 338,15.0,Critical,High,195,8,3,0
+Site 1907,15.0,Critical,High,110,6,2,0
+Site 794,15.0,Critical,High,218,8,2,0
+Site 248,15.0,Critical,High,16,5,2,0
+Site 1257,14.9,Critical,High,26,3,1,0
+Site 2139,14.9,Critical,High,86,4,1,0
+Site 1853,14.9,Critical,High,116,4,2,0
+Site 1403,14.9,Critical,High,138,8,4,0
+Site 1690,14.9,Critical,High,44,4,2,0
+Site 1099,14.9,Critical,High,218,10,4,0
+Site 1121,14.9,Critical,High,115,8,3,0
+Site 617,14.9,Critical,High,13,5,2,0
+Site 2145,14.9,Critical,High,29,5,2,0
+Site 994,14.9,Critical,High,51,5,2,0
+Site 2115,14.9,Critical,High,26,3,1,0
+Site 2038,14.9,Critical,High,165,6,2,0
+Site 2118,14.9,Critical,High,32,4,2,0
+Site 1288,14.9,Critical,High,17,4,2,0
+Site 100,14.9,Critical,High,181,5,2,0
+Site 1935,14.9,Critical,High,433,6,2,0
+Site 1342,14.8,Critical,High,672,10,3,0
+Site 1344,14.8,Critical,High,44,4,1,0
+Site 2015,14.8,Critical,High,337,11,4,0
+Site 58,14.8,Critical,High,186,5,2,0
+Site 302,14.8,Critical,High,199,4,1,0
+Site 1914,14.8,Critical,High,1166,9,2,0
+Site 1976,14.8,Critical,High,233,4,1,0
+Site 578,14.8,Critical,High,45,9,4,0
+Site 336,14.8,Critical,High,194,9,4,0
+Site 1988,14.8,Critical,High,92,4,2,0
+Site 1936,14.8,Critical,High,62,5,2,0
+Site 1943,14.8,Critical,High,44,4,1,0
+Site 1971,14.8,Critical,High,92,5,2,0
+Site 2158,14.8,Critical,High,66,4,1,0
+Site 760,14.8,Critical,High,41,5,2,0
+Site 1656,14.8,Critical,High,60,4,1,0
+Site 1157,14.8,Critical,High,189,8,3,0
+Site 2116,14.8,Critical,High,203,6,2,0
+Site 2085,14.8,Critical,High,71,4,2,0
+Site 1179,14.8,Critical,High,208,10,4,0
+Site 287,14.8,Critical,High,101,4,1,0
+Site 1128,14.8,Critical,High,210,10,4,0
+Site 1107,14.8,Critical,High,77,6,2,0
+Site 1678,14.8,Critical,High,55,7,3,0
+Site 1091,14.8,Critical,High,128,6,2,0
+Site 1277,14.8,Critical,High,98,6,2,0
+Site 952,14.8,Critical,High,239,18,6,0
+Site 2191,14.8,Critical,High,18,4,1,0
+Site 535,14.7,Critical,High,494,14,5,0
+Site 1199,14.7,Critical,High,59,5,2,0
+Site 1958,14.7,Critical,High,97,8,2,0
+Site 1652,14.7,Critical,High,106,5,2,0
+Site 2110,14.7,Critical,High,27,3,1,0
+Site 263,14.7,Critical,High,112,5,2,0
+Site 1929,14.7,Critical,High,55,5,2,0
+Site 331,14.7,Critical,High,205,10,4,0
+Site 1282,14.7,Critical,High,64,6,2,0
+Site 1289,14.7,Critical,High,38,5,2,0
+Site 1034,14.7,Critical,High,279,11,4,0
+Site 2135,14.7,Critical,High,111,4,2,0
+Site 1662,14.7,Critical,High,46,4,1,0
+Site 1800,14.7,Critical,High,65,6,2,0
+Site 1720,14.7,Critical,High,55,4,2,0
+Site 1705,14.7,Critical,High,75,6,2,0
+Site 1123,14.7,Critical,High,231,11,4,0
+Site 2030,14.7,Critical,High,318,10,3,0
+Site 2033,14.7,Critical,High,99,5,2,0
+Site 2036,14.7,Critical,High,134,8,3,0
+Site 2154,14.7,Critical,High,31,7,3,0
+Site 1485,14.7,Critical,High,148,4,2,0
+Site 321,14.7,Critical,High,152,9,3,0
+Site 1752,14.7,Critical,High,227,5,2,0
+Site 1077,14.7,Critical,High,170,4,2,0
+Site 1090,14.7,Critical,High,218,12,4,0
+Site 1645,14.7,Critical,High,79,9,3,0
+Site 1667,14.7,Critical,High,181,5,2,0
+Site 1787,14.7,Critical,High,70,6,2,0
+Site 32,14.7,Critical,High,118,16,6,0
+Site 1702,14.6,Critical,High,129,5,2,0
+Site 1843,14.6,Critical,High,84,4,2,0
+Site 1803,14.6,Critical,High,96,3,1,0
+Site 1693,14.6,Critical,High,545,6,2,0
+Site 1864,14.6,Critical,High,42,7,2,0
+Site 1644,14.6,Critical,High,133,3,1,0
+Site 1753,14.6,Critical,High,300,6,2,0
+Site 1737,14.6,Critical,High,66,9,3,0
+Site 1826,14.6,Critical,High,74,6,2,0
+Site 1658,14.6,Critical,High,39,3,1,0
+Site 1685,14.6,Critical,High,144,5,2,0
+Site 1663,14.6,Critical,High,78,4,2,0
+FARESN_5,14.6,Critical,High,9,2,1,0
+Site 1333,14.6,Critical,High,177,8,3,0
+Site 1511,14.6,Critical,High,138,5,2,0
+Site 2014,14.6,Critical,High,43,9,3,0
+Site 1979,14.6,Critical,High,39,3,1,0
+Site 1987,14.6,Critical,High,182,5,2,0
+Site 1989,14.6,Critical,High,74,4,2,0
+Site 1991,14.6,Critical,High,115,6,2,0
+Site 2149,14.6,Critical,High,55,4,1,0
+Site 2130,14.6,Critical,High,120,5,2,0
+Site 953,14.6,Critical,High,158,11,4,0
+Site 2026,14.6,Critical,High,391,5,2,0
+Site 1977,14.6,Critical,High,125,5,2,0
+Site 2028,14.6,Critical,High,40,5,2,0
+Site 1872,14.6,Critical,High,39,3,1,0
+Site 2034,14.6,Critical,High,101,3,1,0
+Site 2120,14.6,Critical,High,249,6,2,0
+Site 1294,14.6,Critical,High,79,7,3,0
+Site 2096,14.6,Critical,High,64,6,2,0
+Site 2088,14.6,Critical,High,432,5,2,0
+Site 951,14.6,Critical,High,255,9,3,0
+Site 2153,14.6,Critical,High,423,8,2,0
+Site 89,14.6,Critical,High,662,9,4,0
+Site 1162,14.6,Critical,High,140,10,4,0
+Site 443,14.6,Critical,High,384,10,4,0
+Site 1905,14.6,Critical,High,109,6,2,0
+Site 1917,14.6,Critical,High,528,7,2,0
+Site 307,14.6,Critical,High,329,5,2,0
+Site 1928,14.6,Critical,High,72,4,1,0
+Site 1973,14.6,Critical,High,143,5,2,0
+Site 2066,14.6,Critical,High,614,6,2,0
+Site 1961,14.6,Critical,High,22,5,2,0
+Site 1968,14.6,Critical,High,236,4,2,0
+Site 1969,14.6,Critical,High,57,4,2,0
+Site 74,14.5,Critical,High,279,4,1,0
+Site 955,14.5,Critical,High,466,20,7,0
+Site 2142,14.5,Critical,High,46,4,2,0
+Site 1648,14.5,Critical,High,268,10,4,0
+Site 284,14.5,Critical,High,116,10,3,0
+Site 964,14.5,Critical,High,144,7,2,0
+Site 2184,14.5,Critical,High,109,10,3,0
+Site 337,14.5,Critical,High,144,4,1,0
+Site 355,14.5,Critical,High,70,7,2,0
+Site 2112,14.5,Critical,High,100,6,2,0
+Site 1671,14.5,Critical,High,36,5,2,0
+Site 2079,14.5,Critical,High,30,5,2,0
+Site 962,14.5,Critical,High,95,4,1,0
+Site 1862,14.5,Critical,High,53,5,2,0
+Site 1681,14.5,Critical,High,79,5,2,0
+Site 2060,14.5,Critical,High,115,5,2,0
+Site 1882,14.5,Critical,High,108,6,2,0
+Site 1908,14.5,Critical,High,134,5,2,0
+Site 1838,14.5,Critical,High,92,6,2,0
+Site 182,14.5,Critical,High,323,14,4,0
+Site 1924,14.5,Critical,High,89,4,1,0
+Site 1940,14.5,Critical,High,17,3,1,0
+Site 1808,14.5,Critical,High,190,4,2,0
+Site 1962,14.5,Critical,High,84,9,4,0
+Site 1967,14.5,Critical,High,413,5,2,0
+Site 1974,14.5,Critical,High,180,6,2,0
+Site 1768,14.5,Critical,High,174,5,2,0
+Site 1982,14.5,Critical,High,408,5,2,0
+Site 1997,14.5,Critical,High,151,5,2,0
+Site 1998,14.5,Critical,High,245,8,3,0
+Site 2006,14.5,Critical,High,116,6,2,0
+Site 2007,14.5,Critical,High,351,6,2,0
+Site 2025,14.5,Critical,High,124,7,3,0
+Site 1726,14.5,Critical,High,59,5,2,0
+Site 1704,14.5,Critical,High,35,4,2,0
+Site 2035,14.5,Critical,High,174,7,2,0
+Site 2041,14.5,Critical,High,58,5,2,0
+Site 2048,14.5,Critical,High,96,6,2,0
+Site 2057,14.5,Critical,High,48,4,1,0
+Site 446,14.5,Critical,High,178,10,4,0
+ZWRSFLT,14.5,Critical,High,52,4,2,0
+Site 1196,14.5,Critical,High,133,6,2,0
+Site 1458,14.5,Critical,High,624,8,2,0
+Site 1094,14.5,Critical,High,55,5,2,0
+Site 1012,14.5,Critical,High,34,4,2,0
+SAE_STDAT,14.5,Critical,High,18,6,4,0
+Site 1217,14.5,Critical,High,55,5,2,0
+Site 1388,14.5,Critical,High,397,10,4,0
+Site 1338,14.5,Critical,High,116,8,3,0
+Site 1555,14.4,Critical,High,84,6,2,0
+Site 1035,14.4,Critical,High,360,11,4,0
+Site 741,14.4,Critical,High,56,6,2,0
+Unknown_STUDY 24_CPID_Input Files - Anonymization - Study 24_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Unknown_Study 25_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Site 648,14.4,Critical,High,125,4,1,0
+Unknown_STUDY 24_CPID_Input Files - Anonymization - Study 24_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Unknown_Study 25_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Site 2051,14.4,Critical,High,158,6,2,0
+Site 292,14.4,Critical,High,86,11,4,0
+Site 2128,14.4,Critical,High,52,5,2,0
+Site 1029,14.4,Critical,High,98,10,4,0
+Unknown_STUDY 2_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Unknown_Study 4_CPID_Input Files - Anonymization - CPID_EDC Metrics_URSV2.0_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Unknown_STUDY 23_CPID_Input Files - Anonymization - Study 23 - CPID_EDC Metrics_URSV2.0_13 Nov 25_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Site 986,14.4,Critical,High,364,10,3,0
+Unknown_STUDY 23_CPID_Input Files - Anonymization - Study 23 - CPID_EDC Metrics_URSV2.0_13 Nov 25_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Unknown_Study 4_CPID_Input Files - Anonymization - CPID_EDC Metrics_URSV2.0_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Site 791,14.4,Critical,High,132,6,2,0
+Unknown_Study 5_CPID_Input Files - Anonymization - Study 5_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Unknown_Study 5_CPID_Input Files - Anonymization - Study 5_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Site 314,14.4,Critical,High,23,6,2,0
+Unknown_Study 13_CPID_Input Files - Anonymization - Study 13_CPID_EDC_Metrics_URSV2.0_14NOV2025_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Unknown_STUDY 22_CPID_Input Files - Anonymization - CPID_EDC Metrics_URSV2.0 (2)_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Unknown_Study 6 _CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Unknown_STUDY 22_CPID_Input Files - Anonymization - CPID_EDC Metrics_URSV2.0 (2)_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Unknown_Study 1_CPID_Input Files - Anonymization - Study 1_CPID_EDC_Metrics_URSV2.0_14 NOV 2025_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Site 2069,14.4,Critical,High,24,5,2,0
+Unknown_Study 1_CPID_Input Files - Anonymization - Study 1_CPID_EDC_Metrics_URSV2.0_14 NOV 2025_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Unknown_STUDY 2_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Site 2109,14.4,Critical,High,19,5,2,0
+Site 346,14.4,Critical,High,164,13,5,0
+Unknown_Study 14_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Unknown_Study 14_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Site 281,14.4,Critical,High,876,15,5,0
+Unknown_Study 16_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0 (3)_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Unknown_Study 16_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0 (3)_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Site 1169,14.4,Critical,High,82,10,4,0
+Site 2108,14.4,Critical,High,100,6,2,0
+Site 897,14.4,Critical,High,125,5,2,0
+Unknown_Study 11_CPID_Input Files - Anonymization - Study 11_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Unknown_Study 17_CPID_Input Files - Anonymization - CPID_EDC Metrics_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Unknown_Study 17_CPID_Input Files - Anonymization - CPID_EDC Metrics_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Unknown_Study 11_CPID_Input Files - Anonymization - Study 11_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Site 1822,14.4,Critical,High,48,4,2,0
+Site 2126,14.4,Critical,High,46,7,2,0
+Site 2100,14.4,Critical,High,75,6,2,0
+Site 690,14.4,Critical,High,111,5,2,0
+Site 1834,14.4,Critical,High,141,5,2,0
+Unknown_Study 18_CPID_Input Files - Anonymization - Study 18_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Unknown_Study 18_CPID_Input Files - Anonymization - Study 18_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Unknown_Study 10_CPID_Input Files - Anonymization - Study 10_CPID_EDC_Metrics_URSV2.0_14-Nov-2025_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Site 66,14.4,Critical,High,60,4,2,0
+Unknown_Study 10_CPID_Input Files - Anonymization - Study 10_CPID_EDC_Metrics_URSV2.0_14-Nov-2025_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Unknown_STUDY 15_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Site 39,14.4,Critical,High,264,12,5,0
+Site 1177,14.4,Critical,High,105,9,3,0
+Unknown_Study 6 _CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Site 1893,14.4,Critical,High,46,6,2,0
+Site 2027,14.4,Critical,High,58,3,1,0
+WTURCCT,14.4,Critical,High,2,2,1,0
+Site 1701,14.4,Critical,High,183,4,2,0
+Site 1496,14.4,Critical,High,163,8,2,0
+VOLSMADL,14.4,Critical,High,2,2,1,0
+Site 2152,14.4,Critical,High,136,5,2,0
+VOLSOADL,14.4,Critical,High,2,2,1,0
+Site 1950,14.4,Critical,High,35,5,2,0
+Unknown_STUDY 20__CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Site 1769,14.4,Critical,High,108,6,2,0
+Site 782,14.4,Critical,High,139,6,2,0
+Unknown_STUDY 19_CPID_Input Files - Anonymization - Study 19_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Unknown_STUDY 19_CPID_Input Files - Anonymization - Study 19_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Site 1959,14.4,Critical,High,53,4,2,0
+Site 1995,14.4,Critical,High,79,5,2,0
+OUT_DATE,14.4,Critical,High,18,8,6,0
+Site 300,14.4,Critical,High,234,4,1,0
+FARESN_4,14.4,Critical,High,8,2,1,0
+FARESN_3,14.4,Critical,High,8,2,1,0
+Site 1964,14.4,Critical,High,73,6,2,0
+Site 1647,14.4,Critical,High,241,5,2,0
+DVSTDAT,14.4,Critical,High,27,5,3,0
+DURSFLT,14.4,Critical,High,2,2,1,0
+Site 1762,14.4,Critical,High,178,5,2,0
+CMTERM_AUTO03,14.4,Critical,High,7,7,5,0
+Site 1992,14.4,Critical,High,113,6,2,0
+Site 1990,14.4,Critical,High,241,6,2,0
+Site 1970,14.4,Critical,High,349,5,2,0
+Site 1366,14.4,Critical,High,185,8,2,0
+Site 1975,14.4,Critical,High,130,5,2,0
+Site 1942,14.4,Critical,High,121,5,2,0
+Site 1698,14.4,Critical,High,94,4,2,0
+Site 815,14.4,Critical,High,294,12,4,0
+Unknown_Study 8_CPID_Input Files - Anonymization - Study 8_CPID_EDC_Metrics_URSV2.0 _13Nov2025_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Site 2181,14.4,Critical,High,73,4,1,0
+Unknown_Study 7_CPID_Input Files - Anonymization - Study 7_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Unknown_STUDY 21_CPID_Input Files - Anonymization - CPID_EDC Metrics_URSV2.0 (1) 1_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Unknown_STUDY 21_CPID_Input Files - Anonymization - CPID_EDC Metrics_URSV2.0 (1) 1_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Unknown_Study 7_CPID_Input Files - Anonymization - Study 7_CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Site 1240,14.4,Critical,High,95,5,2,0
+Site 2016,14.4,Critical,High,58,3,1,0
+Site 2013,14.4,Critical,High,229,10,3,0
+Site 603,14.4,Critical,High,100,6,2,0
+Unknown_STUDY 15_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Unknown_Study 8_CPID_Input Files - Anonymization - Study 8_CPID_EDC_Metrics_URSV2.0 _13Nov2025_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Site 1925,14.4,Critical,High,375,8,2,0
+Unknown_Study 13_CPID_Input Files - Anonymization - Study 13_CPID_EDC_Metrics_URSV2.0_14NOV2025_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Site 462,14.4,Critical,High,237,10,4,0
+Site 460,14.4,Critical,High,363,13,4,0
+Site 1937,14.4,Critical,High,24,4,1,0
+Site 1144,14.4,Critical,High,289,6,2,0
+Site 1712,14.4,Critical,High,86,5,2,0
+Unknown_STUDY 20__CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Unknown_Study 9_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0 (1)_updated.xlsx - Region_Country View_0,14.4,Critical,High,1,1,1,0
+Site 2151,14.4,Critical,High,997,9,3,0
+Unknown_Study 9_CPID_Input Files - Anonymization - CPID_EDC_Metrics_URSV2.0 (1)_updated.xlsx - Region_Country View_1,14.4,Critical,High,1,1,1,0
+Site 2186,14.3,Critical,High,132,6,2,0
+Site 1779,14.3,Critical,High,81,6,2,0
+Site 1118,14.3,Critical,High,80,6,2,0
+Site 2141,14.3,Critical,High,312,6,2,0
+Site 1272,14.3,Critical,High,15,5,2,0
+Site 2183,14.3,Critical,High,232,6,2,0
+Site 1757,14.3,Critical,High,78,5,2,0
+Site 2119,14.3,Critical,High,236,6,2,0
+Site 2132,14.3,Critical,High,316,5,2,0
+Site 1659,14.3,Critical,High,387,7,2,0
+Site 1809,14.3,Critical,High,154,5,2,0
+Site 2189,14.3,Critical,High,32,4,1,0
+Site 1280,14.3,Critical,High,113,5,2,0
+Site 1410,14.3,Critical,High,238,3,1,0
+Site 2179,14.3,Critical,High,101,6,2,0
+Site 1646,14.3,Critical,High,155,13,4,0
+Site 1619,14.3,Critical,High,12,3,1,0
+Site 985,14.3,Critical,High,33,5,2,0
+Site 1801,14.3,Critical,High,112,3,1,0
+Site 261,14.3,Critical,High,368,10,4,0
+Site 344,14.3,Critical,High,501,14,5,0
+Site 629,14.3,Critical,High,39,5,2,0
+Site 1051,14.3,Critical,High,134,7,3,0
+Site 1883,14.3,Critical,High,233,6,2,0
+Site 429,14.3,Critical,High,54,5,2,0
+Site 1884,14.3,Critical,High,156,5,2,0
+Site 2031,14.3,Critical,High,55,4,2,0
+Site 967,14.3,Critical,High,520,12,4,0
+Site 1142,14.3,Critical,High,87,7,2,0
+Site 1340,14.3,Critical,High,95,7,3,0
+Site 444,14.3,Critical,High,116,9,4,0
+Site 821,14.3,Critical,High,124,9,3,0
+Site 1923,14.3,Critical,High,104,5,2,0
+Site 1706,14.3,Critical,High,175,6,2,0
+Site 1347,14.3,Critical,High,253,9,4,0
+Site 1941,14.3,Critical,High,38,5,2,0
+Site 536,14.3,Critical,High,382,14,5,0
+Site 1106,14.3,Critical,High,134,10,4,0
+Site 568,14.3,Critical,High,87,5,2,0
+Site 1996,14.3,Critical,High,137,3,1,0
+Site 1956,14.3,Critical,High,111,4,1,0
+Site 1464,14.3,Critical,High,84,4,2,0
+Site 1994,14.3,Critical,High,152,5,2,0
+Site 1965,14.3,Critical,High,140,5,2,0
+AESTDAT,14.3,Critical,High,144,15,12,0
+Site 1390,14.3,Critical,High,696,11,4,0
+Site 420,14.3,Critical,High,114,19,7,0
+Site 1879,14.3,Critical,High,32,4,2,0
+Site 906,14.3,Critical,High,75,5,2,0
+Site 349,14.3,Critical,High,507,18,6,0
+Site 1665,14.3,Critical,High,12,3,1,0
+Site 1583,14.3,Critical,High,164,5,2,0
+Site 1581,14.3,Critical,High,73,4,1,0
+Site 280,14.3,Critical,High,142,10,4,0
+Site 279,14.3,Critical,High,56,8,3,0
+Site 2101,14.3,Critical,High,66,3,1,0
+Site 1041,14.3,Critical,High,394,10,4,0
+Site 1687,14.3,Critical,High,69,5,2,0
+Site 2082,14.3,Critical,High,282,6,2,0
+Site 2196,14.3,Critical,High,24,3,1,0
+Site 633,14.3,Critical,High,82,5,2,0
+Site 904,14.3,Critical,High,172,10,4,0
+Site 1321,14.3,Critical,High,24,3,1,0
+Site 1315,14.3,Critical,High,33,5,2,0
+Site 2049,14.3,Critical,High,78,4,2,0
+Site 1544,14.3,Critical,High,12,3,1,0
+Site 1874,14.3,Critical,High,48,4,2,0
+Site 2061,14.3,Critical,High,234,5,2,0
+Site 2056,14.3,Critical,High,176,5,2,0
+Site 1319,14.3,Critical,High,12,3,1,0
+Site 778,14.3,Critical,High,159,10,3,0
+Site 837,14.2,Critical,High,67,4,2,0
+Site 1978,14.2,Critical,High,315,6,2,0
+Site 1724,14.2,Critical,High,32,5,2,0
+Site 1255,14.2,Critical,High,94,5,2,0
+Site 1139,14.2,Critical,High,43,7,2,0
+Site 260,14.2,Critical,High,63,8,3,0
+Site 1109,14.2,Critical,High,250,11,4,0
+Site 1126,14.2,Critical,High,50,6,2,0
+Site 1951,14.2,Critical,High,526,12,4,0
+Site 2168,14.2,Critical,High,163,7,2,0
+Site 2010,14.2,Critical,High,239,5,2,0
+Site 1392,14.2,Critical,High,303,7,2,0
+Site 2044,14.2,Critical,High,41,5,2,0
+Site 1897,14.2,Critical,High,485,6,2,0
+Site 1336,14.2,Critical,High,1159,13,4,0
+Site 1916,14.2,Critical,High,141,5,2,0
+Site 2017,14.2,Critical,High,103,5,2,0
+Site 1930,14.2,Critical,High,184,6,2,0
+Site 1306,14.2,Critical,High,159,10,4,0
+Site 1938,14.2,Critical,High,103,5,2,0
+Site 2003,14.2,Critical,High,242,5,2,0
+Site 1944,14.2,Critical,High,165,6,2,0
+Site 1946,14.2,Critical,High,404,6,2,0
+Site 938,14.2,Critical,High,618,14,4,0
+Site 944,14.2,Critical,High,420,11,4,0
+Site 1841,14.2,Critical,High,55,3,1,0
+Site 1820,14.2,Critical,High,282,5,2,0
+Site 2156,14.2,Critical,High,127,4,2,0
+Site 1411,14.2,Critical,High,86,4,1,0
+Site 876,14.2,Critical,High,704,17,6,0
+Site 1264,14.2,Critical,High,65,5,2,0
+Site 1775,14.2,Critical,High,233,6,2,0
+Site 2148,14.2,Critical,High,133,3,1,0
+Site 1267,14.2,Critical,High,135,5,2,0
+Site 2137,14.2,Critical,High,27,4,2,0
+Site 984,14.2,Critical,High,300,5,2,0
+Site 1819,14.2,Critical,High,103,3,1,0
+Site 1799,14.2,Critical,High,133,4,2,0
+Site 983,14.2,Critical,High,61,3,1,0
+Site 1807,14.2,Critical,High,304,5,2,0
+Site 1810,14.2,Critical,High,175,5,2,0
+Site 1813,14.2,Critical,High,140,4,2,0
+Site 1814,14.2,Critical,High,167,5,2,0
+Site 1823,14.2,Critical,High,37,4,1,0
+Site 1113,14.2,Critical,High,334,10,4,0
+Site 797,14.2,Critical,High,73,4,2,0
+Site 1102,14.2,Critical,High,126,8,3,0
+Site 445,14.2,Critical,High,91,12,4,0
+Site 1100,14.2,Critical,High,297,11,4,0
+Site 692,14.2,Critical,High,90,5,2,0
+Site 1234,14.2,Critical,High,248,6,1,0
+Site 309,14.2,Critical,High,130,9,4,0
+Site 740,14.2,Critical,High,99,6,2,0
+Site 463,14.2,Critical,High,196,6,2,0
+Site 773,14.2,Critical,High,59,6,2,0
+Site 1083,14.2,Critical,High,218,10,4,0
+Site 581,14.2,Critical,High,61,6,2,0
+Site 652,14.2,Critical,High,98,5,2,0
+Site 51,14.2,Critical,High,299,12,4,0
+Site 1152,14.2,Critical,High,88,9,3,0
+Site 1682,14.2,Critical,High,25,4,2,0
+Site 547,14.2,Critical,High,957,17,5,0
+Site 1661,14.2,Critical,High,171,5,2,0
+Site 611,14.2,Critical,High,379,7,2,0
+Site 277,14.2,Critical,High,373,7,2,0
+Site 1657,14.2,Critical,High,120,5,2,0
+Site 1816,14.1,Critical,High,283,8,3,0
+Site 1108,14.1,Critical,High,141,9,3,0
+Site 359,14.1,Critical,High,204,13,5,0
+Site 1824,14.1,Critical,High,208,6,2,0
+Site 1404,14.1,Critical,High,127,10,3,0
+Site 1825,14.1,Critical,High,84,5,2,0
+Site 728,14.1,Critical,High,38,5,2,0
+Site 1790,14.1,Critical,High,129,5,2,0
+Site 1805,14.1,Critical,High,68,5,2,0
+Site 333,14.1,Critical,High,863,14,5,0
+Site 1058,14.1,Critical,High,498,12,4,0
+Site 329,14.1,Critical,High,441,9,3,0
+Site 1303,14.1,Critical,High,337,9,4,0
+Site 1620,14.1,Critical,High,583,6,2,0
+Site 1781,14.1,Critical,High,186,5,2,0
+Site 1777,14.1,Critical,High,129,7,2,0
+Site 99,14.1,Critical,High,143,4,2,0
+Site 996,14.1,Critical,High,198,9,4,0
+Site 1765,14.1,Critical,High,109,7,2,0
+Site 2157,14.1,Critical,High,69,4,1,0
+Site 868,14.1,Critical,High,91,8,3,0
+Site 2095,14.1,Critical,High,192,7,2,0
+Site 1854,14.1,Critical,High,35,5,2,0
+Site 1172,14.1,Critical,High,246,8,4,0
+Site 1399,14.1,Critical,High,552,9,2,0
+Site 1993,14.1,Critical,High,112,5,3,0
+Site 52,14.1,Critical,High,1916,7,2,0
+Site 519,14.1,Critical,High,95,8,3,0
+Site 558,14.1,Critical,High,53,5,2,0
+Site 1948,14.1,Critical,High,628,6,2,0
+Site 1945,14.1,Critical,High,428,8,2,0
+Site 594,14.1,Critical,High,170,12,5,0
+Site 457,14.1,Critical,High,99,6,2,0
+Site 193,14.1,Critical,High,401,22,7,0
+Site 456,14.1,Critical,High,185,9,3,0
+Site 2012,14.1,Critical,High,322,6,2,0
+Site 2020,14.1,Critical,High,131,6,2,0
+Site 1910,14.1,Critical,High,200,5,2,0
+Site 1903,14.1,Critical,High,174,6,2,0
+Site 1899,14.1,Critical,High,37,3,1,0
+Site 1896,14.1,Critical,High,216,6,2,0
+Site 1895,14.1,Critical,High,128,5,2,0
+Site 203,14.1,Critical,High,289,14,5,0
+Site 1891,14.1,Critical,High,118,5,2,0
+Site 1030,14.1,Critical,High,250,15,4,0
+Site 1866,14.1,Critical,High,120,4,1,0
+Site 644,14.1,Critical,High,93,5,2,0
+Site 2059,14.1,Critical,High,237,6,2,0
+Site 2063,14.1,Critical,High,147,5,2,0
+Site 2163,14.1,Critical,High,37,5,2,0
+Site 2072,14.1,Critical,High,333,6,2,0
+Site 1175,14.1,Critical,High,172,11,4,0
+Site 1758,14.1,Critical,High,60,5,2,0
+Site 1832,14.1,Critical,High,172,5,2,0
+Site 1983,14.1,Critical,High,196,4,2,0
+Site 1750,14.1,Critical,High,112,6,2,0
+Site 813,14.1,Critical,High,261,10,4,0
+Site 1697,14.1,Critical,High,149,4,2,0
+Site 1447,14.1,Critical,High,37,5,2,0
+Site 1719,14.1,Critical,High,103,5,2,0
+Site 1696,14.1,Critical,High,156,4,2,0
+Site 1695,14.1,Critical,High,274,5,2,0
+Site 1714,14.1,Critical,High,99,4,2,0
+Site 1744,14.1,Critical,High,124,7,3,0
+Site 2169,14.1,Critical,High,360,6,2,0
+Site 1722,14.1,Critical,High,231,6,2,0
+Site 1683,14.1,Critical,High,231,5,2,0
+Site 286,14.1,Critical,High,291,16,5,0
+Site 1741,14.1,Critical,High,80,3,1,0
+Site 2166,14.1,Critical,High,174,5,2,0
+Site 1715,14.1,Critical,High,70,5,2,0
+Site 925,14.0,Critical,High,1712,15,4,0
+Site 1873,14.0,Critical,High,81,4,1,0
+Site 2037,14.0,Critical,High,67,5,2,0
+Site 2045,14.0,Critical,High,52,4,1,0
+Site 1148,14.0,Critical,High,119,11,4,0
+Site 610,14.0,Critical,High,109,6,2,0
+Site 1876,14.0,Critical,High,187,5,2,0
+Site 793,14.0,Critical,High,57,3,1,0
+Site 919,14.0,Critical,High,755,13,4,0
+Site 643,14.0,Critical,High,169,7,2,0
+Site 1085,14.0,Critical,High,52,4,2,0
+Site 1391,14.0,Critical,High,58,5,2,0
+Site 1031,14.0,Critical,High,242,6,2,0
+Site 2053,14.0,Critical,High,163,7,2,0
+Site 1867,14.0,Critical,High,245,6,2,0
+Site 1675,14.0,Critical,High,154,12,4,0
+Site 1863,14.0,Critical,High,73,5,2,0
+Site 1558,14.0,Critical,High,159,4,2,0
+Site 1855,14.0,Critical,High,148,6,2,0
+Site 1316,14.0,Critical,High,91,5,2,0
+Site 1848,14.0,Critical,High,494,11,3,0
+Site 2074,14.0,Critical,High,161,8,2,0
+Site 1564,14.0,Critical,High,57,4,2,0
+Site 659,14.0,Critical,High,188,5,2,0
+Site 2080,14.0,Critical,High,236,6,2,0
+Site 2087,14.0,Critical,High,152,6,2,0
+Site 608,14.0,Critical,High,51,4,1,0
+Site 1191,14.0,Critical,High,156,8,3,0
+Site 1710,14.0,Critical,High,492,6,2,0
+Site 948,14.0,Critical,High,273,11,4,0
+Site 1348,14.0,Critical,High,199,10,4,0
+Site 1939,14.0,Critical,High,63,3,1,0
+Site 591,14.0,Critical,High,198,5,2,0
+Site 1953,14.0,Critical,High,182,8,2,0
+Site 1954,14.0,Critical,High,272,5,2,0
+Site 1430,14.0,Critical,High,103,5,2,0
+Site 1111,14.0,Critical,High,69,4,2,0
+Site 435,14.0,Critical,High,1445,15,6,0
+Site 946,14.0,Critical,High,476,10,4,0
+Site 1963,14.0,Critical,High,268,6,2,0
+Site 1246,14.0,Critical,High,84,7,2,0
+Site 1684,14.0,Critical,High,23,5,2,0
+Site 939,14.0,Critical,High,752,13,5,0
+Site 1363,14.0,Critical,High,312,9,4,0
+Site 1933,14.0,Critical,High,45,3,1,0
+Site 17,14.0,Critical,High,648,19,7,0
+Site 1926,14.0,Critical,High,14,4,1,0
+Site 96,14.0,Critical,High,382,12,4,0
+Site 1920,14.0,Critical,High,63,3,1,0
+Site 1516,14.0,Critical,High,592,8,2,0
+Site 2018,14.0,Critical,High,117,6,2,0
+Site 1703,14.0,Critical,High,295,6,2,0
+Site 1707,14.0,Critical,High,38,3,1,0
+Site 963,14.0,Critical,High,906,16,6,0
+Site 1389,14.0,Critical,High,1070,14,4,0
+Site 1523,14.0,Critical,High,249,7,2,0
+Site 1904,14.0,Critical,High,166,5,2,0
+Site 1708,14.0,Critical,High,51,4,2,0
+Site 1728,14.0,Critical,High,438,6,2,0
+Site 23,14.0,Critical,High,324,14,6,0
+Site 1190,14.0,Critical,High,197,5,2,0
+Site 789,14.0,Critical,High,309,8,2,0
+Site 824,14.0,Critical,High,192,9,4,0
+Site 2147,14.0,Critical,High,40,5,2,0
+Site 1129,14.0,Critical,High,236,10,4,0
+Site 1746,14.0,Critical,High,93,6,2,0
+Site 1072,14.0,Critical,High,260,9,3,0
+Site 343,14.0,Critical,High,354,11,4,0
+Site 1628,14.0,Critical,High,152,4,2,0
+Site 1054,14.0,Critical,High,174,9,4,0
+Site 1133,14.0,Critical,High,121,8,2,0
+Site 335,14.0,Critical,High,167,15,5,0
+Site 1806,14.0,Critical,High,60,4,2,0
+Site 1780,14.0,Critical,High,197,6,2,0
+Site 2177,14.0,Critical,High,37,4,1,0
+Site 312,14.0,Critical,High,42,5,2,0
+Site 888,14.0,Critical,High,962,10,4,0
+Site 2125,14.0,Critical,High,170,6,2,0
+Site 752,14.0,Critical,High,36,6,2,0
+Site 1451,14.0,Critical,High,76,6,2,0
+Site 1155,14.0,Critical,High,196,10,4,0
+Site 1798,14.0,Critical,High,184,4,2,0
+Site 326,14.0,Critical,High,516,29,10,0
+Site 1796,14.0,Critical,High,51,3,1,0
+Site 764,14.0,Critical,High,173,4,1,0
+Site 325,14.0,Critical,High,341,17,6,0
+Site 1763,14.0,Critical,High,82,3,1,0
+Site 875,14.0,Critical,High,785,15,5,0
+Site 1228,14.0,Critical,High,77,5,2,0
+Site 1453,14.0,Critical,High,100,5,2,0
+Site 775,14.0,Critical,High,431,16,6,0
+Site 691,14.0,Critical,High,353,6,2,0
+Site 53,13.9,Critical,High,226,7,2,0
+Site 1617,13.9,Critical,High,80,4,2,0
+Site 448,13.9,Critical,High,249,10,4,0
+Site 438,13.9,Critical,High,337,16,6,0
+Site 1761,13.9,Critical,High,38,3,1,0
+Site 1245,13.9,Critical,High,167,6,2,0
+DRUG_1_RETRTDT,13.9,Critical,High,2,2,1,0
+Site 998,13.9,Critical,High,123,7,3,0
+Site 313,13.9,Critical,High,244,10,4,0
+Site 1754,13.9,Critical,High,79,6,2,0
+Site 2136,13.9,Critical,High,46,3,1,0
+Site 2019,13.9,Critical,High,297,8,2,0
+Site 1020,13.9,Critical,High,474,11,4,0
+Site 1387,13.9,Critical,High,127,6,2,0
+Site 1902,13.9,Critical,High,154,5,2,0
+Site 880,13.9,Critical,High,467,11,4,0
+Site 543,13.9,Critical,High,994,9,4,0
+Site 317,13.9,Critical,High,564,18,6,0
+CMDOSE,13.9,Critical,High,2,2,1,0
+Site 539,13.9,Critical,High,99,7,3,0
+Site 1986,13.9,Critical,High,384,6,2,0
+Site 2023,13.9,Critical,High,130,7,2,0
+Site 1002,13.9,Critical,High,168,8,3,0
+Site 935,13.9,Critical,High,700,10,4,0
+Site 1112,13.9,Critical,High,195,9,3,0
+Site 2001,13.9,Critical,High,102,6,2,0
+Site 988,13.9,Critical,High,300,5,2,0
+Site 1947,13.9,Critical,High,417,5,2,0
+Site 573,13.9,Critical,High,159,6,2,0
+Site 1773,13.9,Critical,High,372,6,2,0
+Site 1497,13.9,Critical,High,60,5,2,0
+Site 468,13.9,Critical,High,872,29,11,0
+Site 2173,13.9,Critical,High,163,5,2,0
+Site 306,13.9,Critical,High,139,6,2,0
+Site 2176,13.9,Critical,High,71,6,2,0
+Site 1699,13.9,Critical,High,249,6,2,0
+Site 2005,13.9,Critical,High,172,4,2,0
+Site 550,13.9,Critical,High,293,14,5,0
+Site 19,13.9,Critical,High,1114,33,9,0
+Site 1932,13.9,Critical,High,205,7,2,0
+Site 1931,13.9,Critical,High,104,4,1,0
+Site 1957,13.9,Critical,High,593,10,3,0
+Site 808,13.9,Critical,High,206,13,4,0
+Site 1679,13.9,Critical,High,151,7,2,0
+Site 1418,13.9,Critical,High,157,4,2,0
+Site 597,13.9,Critical,High,477,16,5,0
+Site 1337,13.9,Critical,High,323,10,4,0
+Site 1756,13.9,Critical,High,96,4,2,0
+Site 1422,13.9,Critical,High,50,5,2,0
+Site 1141,13.9,Critical,High,72,6,2,0
+Site 1098,13.9,Critical,High,74,6,2,0
+Site 1166,13.9,Critical,High,234,7,3,0
+Site 1870,13.9,Critical,High,123,5,2,0
+Site 1578,13.9,Critical,High,185,6,2,0
+Site 913,13.9,Critical,High,763,12,4,0
+Site 2111,13.9,Critical,High,46,3,1,0
+Site 2052,13.9,Critical,High,452,6,2,0
+Site 2182,13.9,Critical,High,27,5,2,0
+Site 833,13.9,Critical,High,183,8,3,0
+Site 649,13.9,Critical,High,111,5,2,0
+Site 352,13.9,Critical,High,132,14,6,0
+Site 2046,13.9,Critical,High,135,6,2,0
+Site 1795,13.9,Critical,High,35,7,2,0
+Site 917,13.9,Critical,High,447,10,4,0
+Site 1557,13.9,Critical,High,153,6,2,0
+Site 975,13.9,Critical,High,376,11,4,0
+Site 834,13.9,Critical,High,52,7,3,0
+Site 914,13.9,Critical,High,512,12,4,0
+Site 974,13.9,Critical,High,355,11,4,0
+Site 2065,13.9,Critical,High,344,5,2,0
+Site 973,13.9,Critical,High,363,12,4,0
+Site 1672,13.9,Critical,High,21,4,2,0
+Site 634,13.9,Critical,High,111,6,2,0
+Site 1042,13.9,Critical,High,497,16,5,0
+Site 1332,13.9,Critical,High,459,11,3,0
+Site 334,13.9,Critical,High,222,8,3,0
+Site 2093,13.9,Critical,High,40,4,2,0
+Site 1304,13.9,Critical,High,254,10,4,0
+Site 1827,13.9,Critical,High,105,4,2,0
+Site 1136,13.9,Critical,High,147,9,3,0
+Site 969,13.9,Critical,High,224,8,3,0
+Site 1573,13.9,Critical,High,329,7,2,0
+Site 664,13.9,Critical,High,306,6,2,0
+Site 864,13.9,Critical,High,119,8,3,0
+Site 1852,13.9,Critical,High,78,3,1,0
+Site 1281,13.9,Critical,High,147,8,2,0
+Site 1186,13.9,Critical,High,92,3,1,0
+Site 970,13.9,Critical,High,203,10,3,0
+Site 1310,13.9,Critical,High,442,10,4,0
+Site 839,13.8,Critical,High,357,5,2,0
+Site 251,13.8,Critical,High,478,7,2,0
+Site 1236,13.8,Critical,High,119,4,2,0
+Site 1244,13.8,Critical,High,652,5,2,0
+Site 548,13.8,Critical,High,814,19,6,0
+Site 1356,13.8,Critical,High,146,6,2,0
+Site 903,13.8,Critical,High,257,4,2,0
+Site 766,13.8,Critical,High,240,5,2,0
+Site 675,13.8,Critical,High,271,7,2,0
+Site 527,13.8,Critical,High,126,9,3,0
+Site 769,13.8,Critical,High,70,6,2,0
+Site 2202,13.8,Critical,High,58,6,1,0
+Site 654,13.8,Critical,High,411,6,2,0
+Site 1256,13.8,Critical,High,54,4,1,0
+Site 322,13.8,Critical,High,222,6,2,0
+Site 713,13.8,Critical,High,126,5,2,0
+Site 582,13.8,Critical,High,106,5,2,0
+Site 1278,13.8,Critical,High,63,4,1,0
+Site 282,13.8,Critical,High,309,10,4,0
+Site 818,13.8,Critical,High,398,11,4,0
+Site 1334,13.8,Critical,High,68,5,2,0
+Site 931,13.8,Critical,High,1426,12,4,0
+Site 1273,13.8,Critical,High,96,6,2,0
+Site 441,13.8,Critical,High,513,15,6,0
+Site 1202,13.8,Critical,High,206,5,2,0
+Site 1329,13.8,Critical,High,20,3,1,0
+Site 316,13.8,Critical,High,1191,25,8,0
+Site 623,13.8,Critical,High,95,4,1,0
+Site 626,13.8,Critical,High,39,4,1,0
+Site 447,13.8,Critical,High,122,10,4,0
+Site 1341,13.8,Critical,High,33,10,3,0
+Site 632,13.8,Critical,High,201,5,2,0
+Site 1193,13.8,Critical,High,215,4,2,0
+Site 342,13.8,Critical,High,271,15,5,0
+Site 455,13.8,Critical,High,344,16,5,0
+Site 2011,13.8,Critical,High,94,3,1,0
+Site 347,13.8,Critical,High,153,11,4,0
+Site 458,13.8,Critical,High,113,8,3,0
+Site 2058,13.8,Critical,High,16,5,2,0
+Site 1349,13.8,Critical,High,237,10,4,0
+Site 2104,13.8,Critical,High,39,5,2,0
+Site 471,13.8,Critical,High,177,9,4,0
+Site 1302,13.8,Critical,High,313,9,4,0
+Site 1783,13.8,Critical,High,54,4,1,0
+Site 1784,13.8,Critical,High,170,5,2,0
+Site 960,13.8,Critical,High,321,11,4,0
+Site 1788,13.8,Critical,High,102,4,2,0
+Site 1821,13.8,Critical,High,83,4,2,0
+Site 1829,13.8,Critical,High,89,4,2,0
+Site 1836,13.8,Critical,High,247,4,2,0
+Site 1839,13.8,Critical,High,161,4,2,0
+Site 1006,13.8,Critical,High,123,6,2,0
+Site 1857,13.8,Critical,High,72,5,2,0
+Site 1861,13.8,Critical,High,128,5,2,0
+Site 1869,13.8,Critical,High,104,7,2,0
+Site 1493,13.8,Critical,High,120,5,2,0
+Site 1877,13.8,Critical,High,188,7,2,0
+Site 1878,13.8,Critical,High,258,4,1,0
+Site 1885,13.8,Critical,High,83,5,2,0
+Site 1888,13.8,Critical,High,167,5,2,0
+Site 1890,13.8,Critical,High,202,6,2,0
+Site 1898,13.8,Critical,High,22,4,2,0
+Site 1911,13.8,Critical,High,36,4,1,0
+Site 1785,13.8,Critical,High,121,5,2,0
+Site 991,13.8,Critical,High,238,7,2,0
+Site 1764,13.8,Critical,High,69,5,2,0
+Site 1089,13.8,Critical,High,188,9,2,0
+Site 1615,13.8,Critical,High,40,4,2,0
+Site 1056,13.8,Critical,High,188,10,3,0
+Site 1602,13.8,Critical,High,305,7,2,0
+Site 1624,13.8,Critical,High,402,4,2,0
+Site 1625,13.8,Critical,High,389,6,2,0
+Site 1071,13.8,Critical,High,70,6,2,0
+Site 1640,13.8,Critical,High,2761,6,2,0
+Site 1096,13.8,Critical,High,125,7,2,0
+Site 1725,13.8,Critical,High,47,4,2,0
+Site 110,13.8,Critical,High,500,31,12,0
+Site 1688,13.8,Critical,High,125,6,2,0
+Site 169,13.8,Critical,High,397,15,6,0
+Site 1043,13.8,Critical,High,73,3,1,0
+Site 1428,13.8,Critical,High,185,5,2,0
+Site 1569,13.8,Critical,High,73,4,2,0
+Site 1723,13.8,Critical,High,282,6,2,0
+Site 961,13.8,Critical,High,382,11,4,0
+Site 1059,13.8,Critical,High,114,9,4,0
+Site 1365,13.8,Critical,High,218,8,3,0
+Site 1147,13.8,Critical,High,46,4,2,0
+Site 1049,13.7,Critical,High,352,10,4,0
+Site 522,13.7,Critical,High,876,21,6,0
+Site 878,13.7,Critical,High,229,9,3,0
+Site 1269,13.7,Critical,High,27,3,1,0
+Site 1093,13.7,Critical,High,148,11,4,0
+Site 1526,13.7,Critical,High,427,6,2,0
+Site 327,13.7,Critical,High,671,31,10,0
+Site 345,13.7,Critical,High,405,20,7,0
+Site 1789,13.7,Critical,High,34,5,2,0
+Site 887,13.7,Critical,High,153,12,4,0
+Site 1444,13.7,Critical,High,343,6,2,0
+Site 1519,13.7,Critical,High,1088,6,2,0
+Site 1518,13.7,Critical,High,151,6,2,0
+Site 1286,13.7,Critical,High,229,6,2,0
+Site 1024,13.7,Critical,High,391,11,4,0
+Site 1017,13.7,Critical,High,34,4,2,0
+Site 1296,13.7,Critical,High,219,10,3,0
+Site 2106,13.7,Critical,High,199,4,2,0
+Site 14,13.7,Critical,High,1985,60,18,0
+Site 1225,13.7,Critical,High,115,6,2,0
+Site 772,13.7,Critical,High,31,6,2,0
+Site 2091,13.7,Critical,High,112,5,2,0
+Site 461,13.7,Critical,High,173,10,4,0
+Site 465,13.7,Critical,High,184,17,5,0
+Site 1499,13.7,Critical,High,204,5,2,0
+Site 1373,13.7,Critical,High,178,4,2,0
+Site 1398,13.7,Critical,High,172,11,4,0
+Site 1842,13.7,Critical,High,93,6,2,0
+Site 979,13.7,Critical,High,649,7,2,0
+Site 24,13.7,Critical,High,300,24,8,0
+Site 1774,13.7,Critical,High,434,6,2,0
+Site 301,13.7,Critical,High,34,6,2,0
+Site 1105,13.7,Critical,High,167,7,2,0
+Site 1711,13.7,Critical,High,67,4,1,0
+Site 1713,13.7,Critical,High,77,4,2,0
+Site 1717,13.7,Critical,High,28,5,2,0
+Site 1171,13.7,Critical,High,34,8,3,0
+Site 679,13.7,Critical,High,331,4,1,0
+Site 1718,13.7,Critical,High,77,5,2,0
+Site 1566,13.7,Critical,High,101,3,1,0
+Site 1694,13.7,Critical,High,132,6,2,0
+Site 714,13.7,Critical,High,36,5,2,0
+Site 354,13.7,Critical,High,176,12,6,0
+Site 1125,13.7,Critical,High,287,10,4,0
+Site 856,13.7,Critical,High,113,6,2,0
+Site 1735,13.7,Critical,High,348,10,3,0
+Site 1045,13.7,Critical,High,108,5,2,0
+Site 1181,13.7,Critical,High,290,13,4,0
+Site 803,13.7,Critical,High,529,9,3,0
+Site 1183,13.7,Critical,High,104,5,2,0
+Site 2174,13.7,Critical,High,44,5,2,0
+Site 2167,13.7,Critical,High,135,6,2,0
+Site 799,13.7,Critical,High,160,5,2,0
+Site 1189,13.7,Critical,High,134,10,4,0
+Site 2164,13.7,Critical,High,66,5,2,0
+Site 1755,13.7,Critical,High,111,4,2,0
+Site 1415,13.7,Critical,High,706,9,2,0
+Site 1587,13.7,Critical,High,123,4,2,0
+Site 997,13.7,Critical,High,597,12,4,0
+Site 1531,13.7,Critical,High,278,8,2,0
+FARESC,13.7,Critical,High,7,3,2,0
+Site 2155,13.7,Critical,High,167,5,2,0
+Site 2078,13.7,Critical,High,325,6,2,0
+Site 1019,13.7,Critical,High,34,6,2,0
+Site 1221,13.7,Critical,High,61,4,1,0
+Site 572,13.7,Critical,High,113,6,2,0
+Site 758,13.7,Critical,High,112,7,3,0
+Site 918,13.7,Critical,High,361,9,4,0
+Site 1865,13.7,Critical,High,103,4,2,0
+Site 1868,13.7,Critical,High,36,5,2,0
+Site 1377,13.7,Critical,High,380,6,2,0
+Site 756,13.7,Critical,High,32,5,2,0
+Site 1881,13.7,Critical,High,85,6,2,0
+Site 1984,13.7,Critical,High,236,5,2,0
+Site 549,13.7,Critical,High,241,11,3,0
+Site 971,13.7,Critical,High,195,10,3,0
+Site 1001,13.7,Critical,High,224,10,4,0
+Site 1889,13.7,Critical,High,85,5,2,0
+Site 1379,13.7,Critical,High,297,6,2,0
+Site 1900,13.7,Critical,High,100,5,2,0
+Site 966,13.7,Critical,High,227,11,4,0
+Site 1062,13.7,Critical,High,152,5,2,0
+Site 554,13.7,Critical,High,96,4,1,0
+Site 330,13.7,Critical,High,1472,25,7,0
+Site 583,13.7,Critical,High,344,5,2,0
+Site 1368,13.7,Critical,High,183,4,1,0
+Site 1844,13.7,Critical,High,73,5,2,0
+Site 587,13.7,Critical,High,81,5,2,0
+Site 1851,13.7,Critical,High,420,6,2,0
+Site 899,13.6,Critical,High,160,5,2,0
+Site 1639,13.6,Critical,High,209,6,2,0
+Site 1540,13.6,Critical,High,240,6,2,0
+Site 627,13.6,Critical,High,110,4,1,0
+Site 865,13.6,Critical,High,148,9,3,0
+Site 999,13.6,Critical,High,385,11,3,0
+Site 1586,13.6,Critical,High,164,6,2,0
+Site 15,13.6,Critical,High,1405,47,17,0
+Site 268,13.6,Critical,High,312,8,3,0
+Site 1184,13.6,Critical,High,105,10,3,0
+Site 425,13.6,Critical,High,51,10,4,0
+Site 1419,13.6,Critical,High,98,3,1,0
+Site 426,13.6,Critical,High,150,10,4,0
+Site 1887,13.6,Critical,High,145,5,2,0
+Site 928,13.6,Critical,High,531,14,4,0
+Site 1892,13.6,Critical,High,99,5,2,0
+Site 1886,13.6,Critical,High,64,5,2,0
+Site 1623,13.6,Critical,High,326,6,2,0
+Site 1260,13.6,Critical,High,101,5,2,0
+Site 1532,13.6,Critical,High,161,5,2,0
+Site 1326,13.6,Critical,High,21,3,1,0
+Site 1455,13.6,Critical,High,215,9,2,0
+Site 209,13.6,Critical,High,474,15,6,0
+Site 1918,13.6,Critical,High,47,5,2,0
+Site 1305,13.6,Critical,High,219,6,2,0
+Site 1208,13.6,Critical,High,153,7,2,0
+Site 1894,13.6,Critical,High,108,6,2,0
+Site 1880,13.6,Critical,High,180,6,2,0
+Site 831,13.6,Critical,High,7,3,1,0
+Site 242,13.6,Critical,High,383,6,2,0
+Site 1576,13.6,Critical,High,105,4,2,0
+Site 1574,13.6,Critical,High,87,4,1,0
+Site 1427,13.6,Critical,High,134,4,2,0
+Site 1040,13.6,Critical,High,360,11,4,0
+Site 1170,13.6,Critical,High,68,8,3,0
+Site 192,13.6,Critical,High,636,24,8,0
+Site 1220,13.6,Critical,High,260,6,2,0
+Site 687,13.6,Critical,High,47,4,2,0
+Site 1385,13.6,Critical,High,263,7,2,0
+Site 1386,13.6,Critical,High,122,5,2,0
+Site 545,13.6,Critical,High,425,14,5,0
+Site 320,13.6,Critical,High,41,6,2,0
+Site 2022,13.6,Critical,High,219,3,1,0
+Site 809,13.6,Critical,High,318,13,4,0
+Site 1174,13.6,Critical,High,132,10,4,0
+Site 1845,13.6,Critical,High,133,10,3,0
+Site 805,13.6,Critical,High,130,5,1,0
+Site 1198,13.6,Critical,High,220,8,2,0
+Site 1251,13.6,Critical,High,134,5,2,0
+Site 1078,13.6,Critical,High,21,3,1,0
+Site 958,13.6,Critical,High,639,16,5,0
+Site 1584,13.6,Critical,High,138,8,2,0
+Site 1542,13.6,Critical,High,223,6,2,0
+Site 735,13.6,Critical,High,61,5,2,0
+Site 1835,13.6,Critical,High,58,5,2,0
+Site 1265,13.6,Critical,High,28,3,1,0
+Site 1856,13.6,Critical,High,85,4,2,0
+Site 1828,13.6,Critical,High,137,5,2,0
+Site 442,13.6,Critical,High,923,10,4,0
+Site 2098,13.6,Critical,High,14,3,1,0
+Site 1345,13.6,Critical,High,113,4,2,0
+Site 102,13.6,Critical,High,266,6,2,0
+Site 585,13.6,Critical,High,35,3,1,0
+Site 972,13.6,Critical,High,250,9,3,0
+Site 896,13.6,Critical,High,138,5,2,0
+Site 1859,13.6,Critical,High,303,5,2,0
+Site 1295,13.6,Critical,High,147,9,4,0
+Site 1402,13.6,Critical,High,338,7,3,0
+Site 1086,13.6,Critical,High,139,6,2,0
+Site 599,13.6,Critical,High,182,6,2,0
+Site 1815,13.6,Critical,High,22,4,2,0
+Site 1298,13.6,Critical,High,86,11,4,0
+Site 1858,13.6,Critical,High,240,5,2,0
+Site 453,13.6,Critical,High,628,14,5,0
+Site 1818,13.6,Critical,High,83,3,1,0
+Site 1016,13.6,Critical,High,21,4,2,0
+Site 95,13.6,Critical,High,268,12,4,0
+Site 165,13.6,Critical,High,1111,27,9,0
+Site 1792,13.6,Critical,High,7,3,1,0
+Site 1778,13.6,Critical,High,184,6,2,0
+Site 1207,13.6,Critical,High,14,3,1,0
+Site 605,13.6,Critical,High,433,6,2,0
+Site 936,13.6,Critical,High,407,14,4,0
+Site 2050,13.6,Critical,High,14,3,1,0
+Site 1782,13.6,Critical,High,176,5,2,0
+Site 1009,13.6,Critical,High,298,10,5,0
+Site 1600,13.6,Critical,High,506,5,2,0
+Site 1441,13.6,Critical,High,136,5,2,0
+Site 1630,13.6,Critical,High,384,6,2,0
+Site 2075,13.6,Critical,High,574,6,2,0
+Site 1271,13.6,Critical,High,138,5,2,0
+Site 1097,13.6,Critical,High,86,5,2,0
+Site 1669,13.6,Critical,High,56,3,1,0
+Site 481,13.6,Critical,High,75,8,3,0
+Site 1242,13.5,Critical,High,59,5,2,0
+Site 308,13.5,Critical,High,150,9,3,0
+302465,13.5,Critical,High,1,1,1,0
+Site 1452,13.5,Critical,High,46,6,2,0
+Site 1239,13.5,Critical,High,131,5,2,0
+Site 315,13.5,Critical,High,480,15,5,0
+Site 1599,13.5,Critical,High,51,5,2,0
+Site 811,13.5,Critical,High,239,9,3,0
+Site 942,13.5,Critical,High,670,16,5,0
+Site 246,13.5,Critical,High,399,5,1,0
+Site 1700,13.5,Critical,High,195,5,2,0
+Site 147,13.5,Critical,High,496,11,4,0
+Site 1443,13.5,Critical,High,263,6,2,0
+Site 1594,13.5,Critical,High,222,5,2,0
+Site 1076,13.5,Critical,High,66,5,2,0
+Site 285,13.5,Critical,High,115,7,3,0
+Site 1456,13.5,Critical,High,614,8,2,0
+Site 1972,13.5,Critical,High,72,3,1,0
+Site 1446,13.5,Critical,High,612,7,2,0
+Site 1088,13.5,Critical,High,191,9,4,0
+Site 715,13.5,Critical,High,80,6,2,0
+Site 1367,13.5,Critical,High,94,4,2,0
+302464,13.5,Critical,High,1,1,1,0
+Site 1248,13.5,Critical,High,39,4,2,0
+Site 34,13.5,Critical,High,383,15,6,0
+Site 1052,13.5,Critical,High,291,11,3,0
+Site 788,13.5,Critical,High,529,4,2,0
+Site 1053,13.5,Critical,High,194,8,2,0
+Site 1354,13.5,Critical,High,99,10,4,0
+Site 940,13.5,Critical,High,626,9,3,0
+Site 117,13.5,Critical,High,490,7,2,0
+Site 912,13.5,Critical,High,251,8,4,0
+Site 1200,13.5,Critical,High,284,6,2,0
+Site 1405,13.5,Critical,High,287,6,2,0
+Site 891,13.5,Critical,High,157,6,2,0
+Site 1370,13.5,Critical,High,584,7,2,0
+Site 1287,13.5,Critical,High,30,5,2,0
+Site 6,13.5,Critical,High,299,23,7,0
+Site 2105,13.5,Critical,High,16,5,2,0
+Site 210,13.5,Critical,High,286,12,4,0
+Site 513,13.5,Critical,High,447,9,4,0
+Site 1949,13.5,Critical,High,67,5,1,0
+Site 2002,13.5,Critical,High,589,5,2,0
+Site 907,13.5,Critical,High,172,6,2,0
+Site 59,13.5,Critical,High,342,9,4,0
+Site 978,13.5,Critical,High,147,10,4,0
+Site 1786,13.5,Critical,High,387,6,2,0
+Site 1395,13.5,Critical,High,93,4,2,0
+Site 950,13.5,Critical,High,1185,14,4,0
+Site 1005,13.5,Critical,High,147,6,2,0
+Site 1875,13.5,Critical,High,51,4,2,0
+Site 1484,13.5,Critical,High,248,4,2,0
+Site 1323,13.5,Critical,High,36,3,1,0
+Site 927,13.5,Critical,High,1541,17,4,0
+Site 507,13.5,Critical,High,308,20,8,0
+Site 2032,13.5,Critical,High,25,4,2,0
+Site 1335,13.5,Critical,High,151,8,3,0
+Site 1901,13.5,Critical,High,139,5,2,0
+Site 959,13.5,Critical,High,248,10,4,0
+Site 1343,13.5,Critical,High,220,8,3,0
+Site 884,13.5,Critical,High,334,10,4,0
+Site 181,13.5,Critical,High,392,27,11,0
+Site 857,13.5,Critical,High,259,14,4,0
+Site 993,13.5,Critical,High,363,5,2,0
+Site 645,13.5,Critical,High,35,5,2,0
+Site 1730,13.5,Critical,High,324,6,2,0
+Site 1546,13.5,Critical,High,292,5,2,0
+Site 1037,13.5,Critical,High,297,13,4,0
+Site 1412,13.5,Critical,High,424,5,2,0
+Site 866,13.5,Critical,High,158,8,3,0
+Site 421,13.5,Critical,High,346,18,6,0
+Site 1416,13.5,Critical,High,146,5,2,0
+Site 1039,13.5,Critical,High,215,10,4,0
+Site 1476,13.5,Critical,High,183,5,2,0
+Site 870,13.5,Critical,High,328,8,3,0
+Site 1033,13.5,Critical,High,105,5,2,0
+Site 2146,13.5,Critical,High,71,6,2,0
+Site 546,13.5,Critical,High,741,17,6,0
+Site 877,13.5,Critical,High,350,15,5,0
+Site 1270,13.5,Critical,High,205,5,2,0
+Site 153,13.5,Critical,High,977,22,8,0
+Site 1709,13.5,Critical,High,105,4,2,0
+Site 1528,13.5,Critical,High,812,7,2,0
+Site 178,13.5,Critical,High,501,23,8,0
+Site 2144,13.5,Critical,High,93,5,2,0
+Site 949,13.5,Critical,High,439,11,4,0
+Site 542,13.4,Critical,High,231,9,3,0
+Site 1490,13.4,Critical,High,29,4,2,0
+Site 1173,13.4,Critical,High,105,10,4,0
+Site 1211,13.4,Critical,High,119,7,2,0
+Site 1565,13.4,Critical,High,184,5,2,0
+Site 1489,13.4,Critical,High,132,4,2,0
+Site 357,13.4,Critical,High,462,23,9,0
+Site 395,13.4,Critical,High,27,5,2,0
+Site 332,13.4,Critical,High,1384,16,6,0
+Site 1481,13.4,Critical,High,293,4,1,0
+Site 1482,13.4,Critical,High,44,5,2,0
+Site 476,13.4,Critical,High,271,11,4,0
+Site 1161,13.4,Critical,High,593,12,4,0
+Site 1541,13.4,Critical,High,362,6,2,0
+Site 47,13.4,Critical,High,1979,29,10,0
+Site 1533,13.4,Critical,High,314,6,2,0
+Site 1500,13.4,Critical,High,183,7,2,0
+CMINDRV2,13.4,Critical,High,79,10,9,0
+Site 1011,13.4,Critical,High,238,6,1,0
+Site 341,13.4,Critical,High,81,8,2,0
+Site 1505,13.4,Critical,High,285,6,2,0
+Site 1507,13.4,Critical,High,133,5,2,0
+Site 1021,13.4,Critical,High,105,7,2,0
+Site 1522,13.4,Critical,High,314,8,2,0
+Site 1022,13.4,Critical,High,618,15,4,0
+Site 1486,13.4,Critical,High,185,4,2,0
+Site 814,13.4,Critical,High,269,14,4,0
+Site 1060,13.4,Critical,High,260,7,2,0
+Site 894,13.4,Critical,High,249,5,2,0
+Site 898,13.4,Critical,High,86,4,1,0
+Site 1420,13.4,Critical,High,184,3,1,0
+Site 2047,13.4,Critical,High,324,5,2,0
+Site 237,13.4,Critical,High,478,6,2,0
+Site 187,13.4,Critical,High,633,23,7,0
+Site 235,13.4,Critical,High,459,6,2,0
+Site 1393,13.4,Critical,High,90,5,2,0
+Site 1360,13.4,Critical,High,433,9,3,0
+Site 816,13.4,Critical,High,111,10,4,0
+Site 1414,13.4,Critical,High,157,4,2,0
+Site 1860,13.4,Critical,High,109,4,2,0
+Site 1837,13.4,Critical,High,104,5,2,0
+Site 965,13.4,Critical,High,166,14,4,0
+Site 1293,13.4,Critical,High,59,3,1,0
+Site 1297,13.4,Critical,High,298,12,4,0
+Site 172,13.4,Critical,High,1291,16,6,0
+Site 1401,13.4,Critical,High,61,5,2,0
+Site 1817,13.4,Critical,High,128,4,2,0
+Site 1307,13.4,Critical,High,110,11,4,0
+Site 1833,13.4,Critical,High,100,4,2,0
+Site 1426,13.4,Critical,High,268,5,2,0
+Site 980,13.4,Critical,High,51,4,2,0
+Site 843,13.4,Critical,High,185,5,2,0
+Site 1301,13.4,Critical,High,171,9,4,0
+Site 1407,13.4,Critical,High,263,6,2,0
+Site 259,13.4,Critical,High,910,25,9,0
+Site 1689,13.4,Critical,High,116,5,2,0
+Site 785,13.4,Critical,High,310,21,7,0
+Site 1611,13.4,Critical,High,332,5,2,0
+Site 1070,13.4,Critical,High,158,8,2,0
+Site 755,13.4,Critical,High,17,4,1,0
+Site 1359,13.4,Critical,High,617,12,3,0
+Site 1362,13.4,Critical,High,1265,14,4,0
+Site 941,13.4,Critical,High,694,14,5,0
+Site 1218,13.4,Critical,High,254,5,2,0
+Site 1638,13.4,Critical,High,523,5,2,0
+Site 768,13.4,Critical,High,74,5,2,0
+Site 2138,13.4,Critical,High,197,5,2,0
+Site 1919,13.4,Critical,High,52,3,1,0
+Site 1252,13.4,Critical,High,47,5,2,0
+Site 947,13.4,Critical,High,487,11,4,0
+Site 1793,13.4,Critical,High,24,4,2,0
+Site 1346,13.4,Critical,High,228,9,3,0
+Site 1674,13.4,Critical,High,291,17,6,0
+Site 1952,13.4,Critical,High,182,8,2,0
+Site 180,13.3,Critical,High,1109,28,9,0
+Site 1408,13.3,Critical,High,147,5,2,0
+Site 2123,13.3,Critical,High,23,4,2,0
+Site 1510,13.3,Critical,High,362,7,2,0
+Site 1406,13.3,Critical,High,100,5,2,0
+Site 119,13.3,Critical,High,968,6,2,0
+Site 1283,13.3,Critical,High,112,3,1,0
+Site 1266,13.3,Critical,High,46,3,1,0
+Site 1776,13.3,Critical,High,182,5,2,0
+Site 1279,13.3,Critical,High,53,5,2,0
+Site 439,13.3,Critical,High,413,11,4,0
+Site 1514,13.3,Critical,High,960,9,2,0
+Site 132,13.3,Critical,High,850,15,5,0
+Site 21,13.3,Critical,High,468,17,6,0
+Site 1000,13.3,Critical,High,23,3,1,0
+Site 524,13.3,Critical,High,374,14,4,0
+Site 1357,13.3,Critical,High,52,6,2,0
+Site 1355,13.3,Critical,High,295,13,4,0
+Site 544,13.3,Critical,High,852,13,6,0
+Site 1352,13.3,Critical,High,194,6,2,0
+Site 1999,13.3,Critical,High,111,4,2,0
+Site 2,13.3,Critical,High,4720,69,24,0
+Site 934,13.3,Critical,High,895,12,4,0
+Site 1378,13.3,Critical,High,95,4,1,0
+Site 929,13.3,Critical,High,864,20,6,0
+Site 1830,13.3,Critical,High,60,4,2,0
+Site 924,13.3,Critical,High,145,10,3,0
+Site 580,13.3,Critical,High,198,10,4,0
+Site 921,13.3,Critical,High,1152,12,4,0
+Site 2071,13.3,Critical,High,24,4,1,0
+Site 98,13.3,Critical,High,249,11,4,0
+Site 593,13.3,Critical,High,235,11,4,0
+Site 900,13.3,Critical,High,61,4,2,0
+Site 464,13.3,Critical,High,283,18,7,0
+Site 1008,13.3,Critical,High,526,16,6,0
+Site 1204,13.3,Critical,High,218,8,2,0
+Site 2165,13.3,Critical,High,162,6,2,0
+Site 871,13.3,Critical,High,438,8,3,0
+Site 841,13.3,Critical,High,38,4,2,0
+Site 1567,13.3,Critical,High,205,6,2,0
+Site 1568,13.3,Critical,High,347,7,2,0
+Site 1571,13.3,Critical,High,215,4,1,0
+Site 68,13.3,Critical,High,462,12,4,0
+Site 817,13.3,Critical,High,297,10,4,0
+Site 368,13.3,Critical,High,145,5,2,0
+Site 702,13.3,Critical,High,67,5,2,0
+Site 1580,13.3,Critical,High,391,8,2,0
+Site 812,13.3,Critical,High,244,9,3,0
+Site 254,13.3,Critical,High,441,5,2,0
+Site 356,13.3,Critical,High,1619,17,5,0
+Site 1110,13.3,Critical,High,1352,14,4,0
+Site 804,13.3,Critical,High,185,9,4,0
+Site 1434,13.3,Critical,High,114,5,2,0
+Site 1680,13.3,Critical,High,8,4,2,0
+Site 27,13.3,Critical,High,265,9,4,0
+Site 795,13.3,Critical,High,84,4,2,0
+Site 283,13.3,Critical,High,249,10,3,0
+Site 1233,13.3,Critical,High,162,7,2,0
+Site 1159,13.3,Critical,High,286,6,2,0
+Site 1209,13.3,Critical,High,157,5,2,0
+Site 1075,13.3,Critical,High,114,4,2,0
+Site 1627,13.3,Critical,High,2077,6,2,0
+Site 318,13.3,Critical,High,1505,22,8,0
+Site 319,13.3,Critical,High,399,9,3,0
+Site 661,13.3,Critical,High,71,6,2,0
+Site 537,13.3,Critical,High,171,15,5,0
+Site 1562,13.3,Critical,High,346,8,2,0
+Site 1543,13.3,Critical,High,234,5,2,0
+Site 1025,13.3,Critical,High,635,12,4,0
+Site 1127,13.3,Critical,High,135,8,2,0
+Site 1550,13.3,Critical,High,118,5,2,0
+Site 1028,13.3,Critical,High,174,10,3,0
+Site 1748,13.3,Critical,High,76,4,2,0
+Site 2171,13.3,Critical,High,41,6,2,0
+TST_DATE,13.3,Critical,High,83,5,3,0
+Site 1534,13.3,Critical,High,208,5,2,0
+Site 1536,13.3,Critical,High,65,5,2,0
+Site 1551,13.3,Critical,High,88,5,2,0
+Site 1114,13.3,Critical,High,475,13,4,0
+Site 175,13.3,Critical,High,1362,19,5,0
+Site 1134,13.3,Critical,High,205,5,2,0
+Site 1605,13.3,Critical,High,236,6,2,0
+Site 1036,13.3,Critical,High,124,6,2,0
+Site 1745,13.3,Critical,High,253,9,3,0
+Site 933,13.2,Critical,High,1091,20,6,0
+Site 954,13.2,Critical,High,411,23,7,0
+Site 1092,13.2,Critical,High,277,9,4,0
+Site 1047,13.2,Critical,High,225,12,4,0
+Site 1081,13.2,Critical,High,124,6,2,0
+Site 115,13.2,Critical,High,1642,8,2,0
+Site 867,13.2,Critical,High,614,10,4,0
+Site 995,13.2,Critical,High,319,14,5,0
+Site 94,13.2,Critical,High,373,10,4,0
+Site 722,13.2,Critical,High,60,5,2,0
+Site 1131,13.2,Critical,High,130,6,2,0
+Site 552,13.2,Critical,High,111,8,3,0
+Site 932,13.2,Critical,High,844,20,6,0
+Site 90,13.2,Critical,High,318,10,4,0
+Site 836,13.2,Critical,High,70,5,2,0
+Site 832,13.2,Critical,High,247,8,3,0
+Site 849,13.2,Critical,High,557,11,4,0
+Site 830,13.2,Critical,High,91,4,1,0
+Site 909,13.2,Critical,High,781,8,2,0
+Site 869,13.2,Critical,High,356,11,3,0
+Site 976,13.2,Critical,High,118,8,3,0
+Site 916,13.2,Critical,High,1776,11,4,0
+Site 826,13.2,Critical,High,247,9,3,0
+Site 853,13.2,Critical,High,153,11,4,0
+Site 1003,13.2,Critical,High,328,13,3,0
+Site 704,13.2,Critical,High,59,4,1,0
+Site 1180,13.2,Critical,High,353,13,4,0
+Site 923,13.2,Critical,High,1506,21,6,0
+Site 1197,13.2,Critical,High,247,7,2,0
+Site 1135,13.2,Critical,High,260,5,2,0
+Site 828,13.2,Critical,High,125,5,2,0
+Site 1465,13.2,Critical,High,95,5,2,0
+Site 1262,13.2,Critical,High,156,4,1,0
+Site 1509,13.2,Critical,High,131,6,2,0
+Site 1608,13.2,Critical,High,250,6,2,0
+Site 274,13.2,Critical,High,33,6,2,0
+Site 1955,13.2,Critical,High,132,5,2,0
+Site 1592,13.2,Critical,High,221,6,2,0
+Site 1591,13.2,Critical,High,172,7,2,0
+Site 1590,13.2,Critical,High,93,5,2,0
+Site 1364,13.2,Critical,High,628,11,4,0
+Site 239,13.2,Critical,High,666,8,2,0
+Site 236,13.2,Critical,High,2308,7,2,0
+Site 1549,13.2,Critical,High,48,5,2,0
+Site 42,13.2,Critical,High,880,22,8,0
+Site 1548,13.2,Critical,High,101,4,2,0
+Site 428,13.2,Critical,High,127,6,2,0
+Site 434,13.2,Critical,High,74,7,2,0
+Site 436,13.2,Critical,High,680,15,6,0
+Site 205,13.2,Critical,High,303,14,6,0
+Site 223,13.2,Critical,High,82,5,2,0
+Site 1610,13.2,Critical,High,226,6,2,0
+Site 1238,13.2,Critical,High,61,5,2,0
+Site 1380,13.2,Critical,High,173,4,2,0
+Site 1643,13.2,Critical,High,217,6,2,0
+Site 1212,13.2,Critical,High,186,3,1,0
+Site 1213,13.2,Critical,High,169,5,2,0
+Site 1263,13.2,Critical,High,146,9,2,0
+Site 176,13.2,Critical,High,173,12,4,0
+Site 1771,13.2,Critical,High,268,10,3,0
+Site 1219,13.2,Critical,High,151,5,2,0
+Site 1448,13.2,Critical,High,107,7,2,0
+Site 1642,13.2,Critical,High,571,7,2,0
+Site 1381,13.2,Critical,High,377,6,2,0
+Site 1636,13.2,Critical,High,247,8,2,0
+Site 1635,13.2,Critical,High,81,5,2,0
+Site 1230,13.2,Critical,High,175,4,2,0
+Site 139,13.2,Critical,High,5022,7,2,0
+Site 1622,13.2,Critical,High,188,7,2,0
+Site 1621,13.2,Critical,High,240,6,2,0
+Site 1383,13.2,Critical,High,68,5,2,0
+Site 1515,13.2,Critical,High,174,5,2,0
+Site 1731,13.2,Critical,High,43,6,3,0
+Site 466,13.2,Critical,High,1630,32,12,0
+Site 1470,13.2,Critical,High,342,5,2,0
+Site 511,13.2,Critical,High,346,14,5,0
+Site 150,13.2,Critical,High,469,5,2,0
+Site 2076,13.2,Critical,High,89,4,2,0
+Site 216,13.2,Critical,High,525,9,3,0
+Site 2134,13.2,Critical,High,15,3,1,0
+Site 1311,13.2,Critical,High,55,4,2,0
+Site 1318,13.2,Critical,High,39,3,1,0
+Site 1276,13.2,Critical,High,54,5,2,0
+Site 1473,13.2,Critical,High,170,6,2,0
+Site 215,13.2,Critical,High,2287,17,6,0
+Site 1508,13.2,Critical,High,199,5,2,0
+Site 484,13.2,Critical,High,90,11,4,0
+Site 212,13.1,Critical,High,1396,14,5,0
+Site 1154,13.1,Critical,High,135,5,2,0
+Site 1494,13.1,Critical,High,195,5,2,0
+Site 190,13.1,Critical,High,1883,6,2,0
+Site 883,13.1,Critical,High,383,10,3,0
+Site 780,13.1,Critical,High,1060,17,6,0
+Site 1274,13.1,Critical,High,202,5,2,0
+Site 1607,13.1,Critical,High,99,4,2,0
+Site 1061,13.1,Critical,High,250,7,2,0
+Site 503,13.1,Critical,High,733,26,8,0
+Site 1480,13.1,Critical,High,219,6,2,0
+Site 886,13.1,Critical,High,446,6,2,0
+Site 1637,13.1,Critical,High,54,6,2,0
+Site 218,13.1,Critical,High,468,5,1,0
+Site 385,13.1,Critical,High,33,4,2,0
+Site 1066,13.1,Critical,High,88,7,2,0
+Site 188,13.1,Critical,High,465,18,5,0
+Site 164,13.1,Critical,High,1553,23,7,0
+Site 1437,13.1,Critical,High,422,8,2,0
+Site 1727,13.1,Critical,High,16,3,1,0
+Site 1117,13.1,Critical,High,79,8,2,0
+Site 874,13.1,Critical,High,166,4,2,0
+Site 113,13.1,Critical,High,1901,38,12,0
+Site 1421,13.1,Critical,High,327,7,2,0
+Site 727,13.1,Critical,High,70,6,2,0
+Site 1137,13.1,Critical,High,126,7,3,0
+Site 540,13.1,Critical,High,16,7,3,0
+Site 992,13.1,Critical,High,65,4,2,0
+Site 1471,13.1,Critical,High,733,10,2,0
+Site 520,13.1,Critical,High,586,22,7,0
+Site 1205,13.1,Critical,High,61,4,2,0
+Site 754,13.1,Critical,High,32,3,1,0
+Site 1216,13.1,Critical,High,59,7,2,0
+Site 1160,13.1,Critical,High,107,5,2,0
+Site 977,13.1,Critical,High,128,8,3,0
+Site 3,13.1,Critical,High,7707,67,23,0
+Site 1457,13.1,Critical,High,63,8,2,0
+Site 1850,13.1,Critical,High,208,9,3,0
+Site 653,13.1,Critical,High,215,6,2,0
+Site 160,13.1,Critical,High,574,19,5,0
+Site 893,13.1,Critical,High,26,5,2,0
+Site 635,13.1,Critical,High,72,5,2,0
+Site 430,13.1,Critical,High,55,5,2,0
+Site 222,13.1,Critical,High,857,6,2,0
+Site 1358,13.1,Critical,High,219,6,2,0
+Site 1545,13.1,Critical,High,268,7,2,0
+Site 204,13.1,Critical,High,437,10,4,0
+Site 584,13.1,Critical,High,180,5,2,0
+Site 1330,13.1,Critical,High,131,8,3,0
+Site 101,13.1,Critical,High,257,9,4,0
+Site 134,13.1,Critical,High,541,6,2,0
+Site 433,13.1,Critical,High,99,5,2,0
+Site 22,13.1,Critical,High,1403,23,7,0
+Site 1032,13.1,Critical,High,43,5,2,0
+Site 1537,13.1,Critical,High,233,4,2,0
+Site 621,13.1,Critical,High,91,5,2,0
+Site 393,13.1,Critical,High,25,5,2,0
+Site 1527,13.1,Critical,High,826,8,2,0
+Site 1361,13.1,Critical,High,92,6,2,0
+Site 25,13.1,Critical,High,228,20,8,0
+Site 1729,13.1,Critical,High,9,4,2,0
+Site 423,13.1,Critical,High,861,22,7,0
+Site 1194,13.1,Critical,High,403,8,2,0
+Site 197,13.1,Critical,High,668,18,5,0
+Site 1589,13.1,Critical,High,276,6,2,0
+Site 451,13.1,Critical,High,718,14,6,0
+Site 206,13.1,Critical,High,1347,16,6,0
+Site 1520,13.1,Critical,High,1251,8,2,0
+Site 1026,13.1,Critical,High,57,10,4,0
+Site 798,13.1,Critical,High,56,4,2,0
+Site 1372,13.1,Critical,High,501,5,2,0
+Site 1517,13.1,Critical,High,227,6,2,0
+Site 1299,13.1,Critical,High,151,11,4,0
+Site 1593,13.1,Critical,High,254,6,2,0
+Site 1351,13.1,Critical,High,1271,11,3,0
+Site 114,13.0,Critical,High,941,7,2,0
+Site 990,13.0,Critical,High,338,5,2,0
+Site 910,13.0,Critical,High,834,14,4,0
+Site 1140,13.0,Critical,High,185,8,4,0
+Site 842,13.0,Critical,High,132,5,2,0
+Site 835,13.0,Critical,High,300,8,2,0
+Site 1423,13.0,Critical,High,159,7,2,0
+Site 987,13.0,Critical,High,459,5,2,0
+Site 855,13.0,Critical,High,246,6,2,0
+Site 1250,13.0,Critical,High,32,6,2,0
+Site 122,13.0,Critical,High,602,7,2,0
+Site 851,13.0,Critical,High,433,10,4,0
+Site 269,13.0,Critical,High,116,11,3,0
+Site 138,13.0,Critical,High,1484,8,2,0
+Site 196,13.0,Critical,High,462,22,8,0
+Site 1369,13.0,Critical,High,485,6,2,0
+Site 1247,13.0,Critical,High,61,5,2,0
+Site 28,13.0,Critical,High,890,44,18,0
+Site 1906,13.0,Critical,High,229,12,3,0
+Site 807,13.0,Critical,High,200,11,4,0
+Site 881,13.0,Critical,High,152,5,2,0
+Site 243,13.0,Critical,High,994,6,2,0
+Site 2161,13.0,Critical,High,46,7,3,0
+Site 233,13.0,Critical,High,87,6,2,0
+Site 1353,13.0,Critical,High,251,6,2,0
+Site 1229,13.0,Critical,High,33,5,2,0
+Site 97,13.0,Critical,High,255,7,3,0
+Site 227,13.0,Critical,High,206,7,2,0
+Site 1222,13.0,Critical,High,363,6,2,0
+Site 1847,13.0,Critical,High,98,9,3,0
+Site 1394,13.0,Critical,High,288,4,2,0
+Site 721,13.0,Critical,High,93,5,2,0
+Site 1206,13.0,Critical,High,324,9,2,0
+Site 1442,13.0,Critical,High,209,5,2,0
+Site 399,13.0,Critical,High,31,4,1,0
+Site 1495,13.0,Critical,High,135,7,2,0
+Site 391,13.0,Critical,High,33,4,1,0
+Site 1612,13.0,Critical,High,285,6,2,0
+Site 1454,13.0,Critical,High,108,5,2,0
+Site 1064,13.0,Critical,High,144,8,2,0
+Site 689,13.0,Critical,High,92,4,2,0
+Site 1641,13.0,Critical,High,124,4,2,0
+Site 1633,13.0,Critical,High,616,4,2,0
+Site 1503,13.0,Critical,High,415,8,2,0
+Site 1074,13.0,Critical,High,221,10,4,0
+Site 1631,13.0,Critical,High,239,5,2,0
+Site 1626,13.0,Critical,High,197,5,2,0
+Site 1521,13.0,Critical,High,99,7,2,0
+Site 1504,13.0,Critical,High,573,6,2,0
+Site 109,13.0,Critical,High,2102,34,12,0
+Site 708,13.0,Critical,High,58,5,2,0
+Site 1095,13.0,Critical,High,268,13,4,0
+Site 50,13.0,Critical,High,1788,28,9,0
+Site 1570,13.0,Critical,High,33,5,2,0
+Site 1116,13.0,Critical,High,159,13,4,0
+Site 1721,13.0,Critical,High,17,4,2,0
+Site 1559,13.0,Critical,High,432,4,2,0
+Site 1475,13.0,Critical,High,36,4,1,0
+Site 1431,13.0,Critical,High,397,4,2,0
+Site 1461,13.0,Critical,High,159,6,2,0
+Site 1046,13.0,Critical,High,49,5,2,0
+Site 1492,13.0,Critical,High,182,4,2,0
+Site 590,13.0,Critical,High,367,12,4,0
+Site 351,13.0,Critical,High,152,11,5,0
+Site 1530,12.9,Critical,High,91,6,1,0
+Site 20,12.9,Critical,High,739,24,8,0
+Site 930,12.9,Critical,High,1368,9,4,0
+Site 829,12.9,Critical,High,30,4,1,0
+Site 1324,12.9,Critical,High,19,4,2,0
+Site 1538,12.9,Critical,High,324,8,2,0
+Site 822,12.9,Critical,High,115,8,3,0
+Site 1027,12.9,Critical,High,82,9,3,0
+Site 452,12.9,Critical,High,709,19,8,0
+Site 200,12.9,Critical,High,710,19,6,0
+Site 156,12.9,Critical,High,770,16,6,0
+Site 1561,12.9,Critical,High,342,6,2,0
+Site 819,12.9,Critical,High,106,9,4,0
+Site 133,12.9,Critical,High,1576,8,2,0
+Site 586,12.9,Critical,High,88,8,2,0
+Site 915,12.9,Critical,High,605,13,4,0
+Site 1254,12.9,Critical,High,733,5,2,0
+Site 1468,12.9,Critical,High,771,6,2,0
+Site 214,12.9,Critical,High,246,18,6,0
+Site 523,12.9,Critical,High,291,12,5,0
+Site 1472,12.9,Critical,High,245,7,2,0
+Site 1478,12.9,Critical,High,247,7,2,0
+Site 148,12.9,Critical,High,1030,29,10,0
+Site 1487,12.9,Critical,High,186,7,2,0
+Site 120,12.9,Critical,High,1386,7,2,0
+Site 1258,12.9,Critical,High,112,8,2,0
+Site 1195,12.9,Critical,High,16,5,2,0
+Site 1502,12.9,Critical,High,224,5,2,0
+Site 130,12.9,Critical,High,916,26,9,0
+Site 1308,12.9,Critical,High,303,10,4,0
+Site 901,12.9,Critical,High,76,5,2,0
+Site 905,12.9,Critical,High,26,4,2,0
+Site 1007,12.9,Critical,High,194,5,1,0
+Site 908,12.9,Critical,High,163,5,2,0
+Site 845,12.9,Critical,High,325,11,4,0
+Site 1501,12.9,Critical,High,70,4,1,0
+Site 247,12.9,Critical,High,211,5,2,0
+Site 810,12.9,Critical,High,182,9,4,0
+Site 1579,12.9,Critical,High,340,5,2,0
+Site 413,12.9,Critical,High,19,5,2,0
+Site 288,12.9,Critical,High,20,4,1,0
+Site 1143,12.9,Critical,High,102,7,2,0
+Site 1232,12.9,Critical,High,125,5,2,0
+Site 685,12.9,Critical,High,228,7,2,0
+Site 37,12.9,Critical,High,166,11,4,0
+Site 369,12.9,Critical,High,152,5,2,0
+Site 367,12.9,Critical,High,270,5,2,0
+Site 1846,12.9,Critical,High,164,14,4,0
+Site 705,12.9,Critical,High,25,3,1,0
+Site 763,12.9,Critical,High,18,4,1,0
+Site 184,12.9,Critical,High,540,17,6,0
+Site 71,12.9,Critical,High,291,10,3,0
+Site 1400,12.9,Critical,High,880,9,2,0
+Site 167,12.9,Critical,High,310,9,3,0
+Site 1676,12.9,Critical,High,339,14,4,0
+Site 177,12.9,Critical,High,911,21,7,0
+Site 1436,12.9,Critical,High,702,8,2,0
+Site 350,12.9,Critical,High,98,11,4,0
+Site 35,12.9,Critical,High,1226,19,6,0
+Site 1734,12.9,Critical,High,177,10,3,0
+Site 1168,12.9,Critical,High,33,5,2,0
+Site 1424,12.9,Critical,High,155,7,2,0
+Site 1382,12.9,Critical,High,27,5,2,0
+Site 1632,12.9,Critical,High,825,5,2,0
+Site 1596,12.9,Critical,High,116,6,2,0
+Site 383,12.9,Critical,High,62,5,2,0
+Site 1582,12.9,Critical,High,343,5,2,0
+Site 1371,12.9,Critical,High,482,4,2,0
+Site 159,12.9,Critical,High,644,17,5,0
+Site 398,12.9,Critical,High,113,6,2,0
+Site 1374,12.9,Critical,High,255,5,2,0
+Site 1601,12.9,Critical,High,139,6,2,0
+Site 663,12.9,Critical,High,19,4,2,0
+Site 12,12.9,Critical,High,299,25,9,0
+Site 669,12.9,Critical,High,211,6,2,0
+Site 957,12.8,Critical,High,233,10,3,0
+Site 189,12.8,Critical,High,437,30,10,0
+Site 1467,12.8,Critical,High,954,7,2,0
+Site 1119,12.8,Critical,High,70,4,2,0
+Site 158,12.8,Critical,High,1545,31,9,0
+Site 1616,12.8,Critical,High,202,7,2,0
+Site 1429,12.8,Critical,High,56,7,2,0
+Site 1044,12.8,Critical,High,304,13,4,0
+Site 1477,12.8,Critical,High,274,6,2,0
+Site 1588,12.8,Critical,High,53,5,2,0
+Site 1104,12.8,Critical,High,179,8,2,0
+Site 1483,12.8,Critical,High,161,7,2,0
+Site 1552,12.8,Critical,High,193,7,2,0
+Site 1023,12.8,Critical,High,113,5,2,0
+Site 1491,12.8,Critical,High,220,4,2,0
+Site 1313,12.8,Critical,High,163,6,2,0
+Site 982,12.8,Critical,High,83,5,2,0
+Site 155,12.8,Critical,High,865,25,7,0
+Site 1048,12.8,Critical,High,270,12,4,0
+Site 1506,12.8,Critical,High,130,6,2,0
+Site 201,12.8,Critical,High,1255,14,5,0
+Site 911,12.8,Critical,High,908,11,3,0
+Site 1498,12.8,Critical,High,395,8,2,0
+Site 1309,12.8,Critical,High,156,10,4,0
+Site 1577,12.8,Critical,High,104,4,2,0
+Site 1449,12.8,Critical,High,28,4,1,0
+Site 1450,12.8,Critical,High,19,4,2,0
+Site 1331,12.8,Critical,High,215,7,2,0
+Site 1529,12.8,Critical,High,28,5,2,0
+Site 889,12.8,Critical,High,97,7,2,0
+Site 1237,12.8,Critical,High,90,5,2,0
+Site 637,12.8,Critical,High,287,6,2,0
+Site 392,12.8,Critical,High,78,5,2,0
+Site 658,12.8,Critical,High,60,5,2,0
+Site 850,12.8,Critical,High,344,8,3,0
+Site 365,12.8,Critical,High,430,6,2,0
+Site 2207,12.8,Critical,High,39,4,1,0
+Site 121,12.8,Critical,High,439,6,2,0
+Site 1215,12.8,Critical,High,45,5,2,0
+Site 2237,12.8,Critical,High,47,6,2,0
+Site 770,12.8,Critical,High,49,5,2,0
+Site 792,12.8,Critical,High,44,4,2,0
+Site 124,12.8,Critical,High,622,23,8,0
+Site 796,12.8,Critical,High,72,5,2,0
+Site 823,12.8,Critical,High,189,9,4,0
+Site 1243,12.8,Critical,High,221,5,2,0
+Site 231,12.8,Critical,High,1242,9,2,0
+Site 854,12.8,Critical,High,842,14,5,0
+Site 7,12.8,Critical,High,2100,43,14,0
+Site 806,12.8,Critical,High,394,8,3,0
+Site 437,12.8,Critical,High,1170,10,4,0
+Site 5,12.8,Critical,High,372,23,8,0
+Site 49,12.8,Critical,High,330,15,5,0
+Site 478,12.8,Critical,High,313,10,4,0
+Site 592,12.8,Critical,High,438,12,4,0
+Site 418,12.8,Critical,High,146,9,4,0
+Site 1223,12.7,Critical,High,112,7,2,0
+Site 989,12.7,Critical,High,371,7,2,0
+Site 762,12.7,Critical,High,38,5,2,0
+Site 765,12.7,Critical,High,203,5,2,0
+Site 185,12.7,Critical,High,507,20,7,0
+Site 1013,12.7,Critical,High,234,4,2,0
+Site 1384,12.7,Critical,High,27,3,1,0
+Site 784,12.7,Critical,High,786,24,8,0
+Site 1417,12.7,Critical,High,566,8,2,0
+Site 1466,12.7,Critical,High,315,7,2,0
+Site 467,12.7,Critical,High,1595,25,9,0
+Site 1146,12.7,Critical,High,162,6,2,0
+Site 195,12.7,Critical,High,607,15,6,0
+Site 801,12.7,Critical,High,250,12,4,0
+Site 521,12.7,Critical,High,585,27,10,0
+Site 530,12.7,Critical,High,429,25,8,0
+Site 1524,12.7,Critical,High,82,8,2,0
+Site 409,12.7,Critical,High,25,6,2,0
+Site 746,12.7,Critical,High,55,6,2,0
+Site 407,12.7,Critical,High,37,6,2,0
+Site 1572,12.7,Critical,High,417,8,2,0
+Site 1560,12.7,Critical,High,352,5,2,0
+Site 641,12.7,Critical,High,53,6,2,0
+Site 397,12.7,Critical,High,61,5,2,0
+Site 417,12.7,Critical,High,913,41,14,0
+Site 1459,12.7,Critical,High,236,6,2,0
+Site 1460,12.7,Critical,High,36,3,1,0
+Site 1063,12.7,Critical,High,172,4,2,0
+Site 1068,12.7,Critical,High,133,5,2,0
+Site 1069,12.7,Critical,High,291,6,2,0
+Site 1634,12.7,Critical,High,73,4,2,0
+Site 1082,12.7,Critical,High,74,7,2,0
+Site 232,12.7,Critical,High,99,6,2,0
+Site 711,12.7,Critical,High,182,6,2,0
+Site 1435,12.7,Critical,High,66,5,2,0
+Site 1539,12.7,Critical,High,319,7,2,0
+Site 1433,12.7,Critical,High,305,7,2,0
+Site 1432,12.7,Critical,High,456,6,2,0
+Site 739,12.7,Critical,High,22,4,1,0
+Site 1210,12.7,Critical,High,74,4,2,0
+Site 873,12.7,Critical,High,494,17,5,0
+Site 2212,12.7,Critical,High,18,3,1,0
+Site 844,12.7,Critical,High,40,5,1,0
+Site 1149,12.7,Critical,High,34,5,2,0
+Site 1261,12.7,Critical,High,168,7,2,0
+Site 129,12.7,Critical,High,252,13,4,0
+Site 882,12.7,Critical,High,269,6,2,0
+Site 1312,12.7,Critical,High,90,4,2,0
+Site 2223,12.7,Critical,High,18,3,1,0
+Site 825,12.7,Critical,High,392,6,2,0
+Site 926,12.7,Critical,High,639,9,3,0
+Site 1322,12.7,Critical,High,18,3,1,0
+Site 2240,12.7,Critical,High,73,6,2,0
+Site 1317,12.7,Critical,High,47,4,2,0
+Site 1314,12.7,Critical,High,20,5,2,0
+Site 9,12.7,Critical,High,2228,31,12,0
+Site 1397,12.6,Critical,High,393,7,2,0
+Site 1409,12.6,Critical,High,171,6,2,0
+Site 1122,12.6,Critical,High,99,5,2,0
+Site 154,12.6,Critical,High,1168,27,9,0
+Site 166,12.6,Critical,High,720,22,6,0
+Site 1849,12.6,Critical,High,247,10,3,0
+Site 1512,12.6,Critical,High,95,4,2,0
+Site 751,12.6,Critical,High,42,6,2,0
+Site 1285,12.6,Critical,High,75,4,2,0
+Site 179,12.6,Critical,High,498,16,5,0
+Site 1438,12.6,Critical,High,639,9,2,0
+Site 1673,12.6,Critical,High,1429,23,8,0
+Site 1325,12.6,Critical,High,38,3,1,0
+Site 1413,12.6,Critical,High,405,5,2,0
+Site 1268,12.6,Critical,High,68,7,2,0
+Site 589,12.6,Critical,High,660,17,5,0
+Site 73,12.6,Critical,High,370,12,4,0
+Site 1738,12.6,Critical,High,429,12,4,0
+Site 742,12.6,Critical,High,107,7,2,0
+Site 734,12.6,Critical,High,66,5,2,0
+Site 922,12.6,Critical,High,342,6,2,0
+Site 422,12.6,Critical,High,245,14,6,0
+Site 371,12.6,Critical,High,85,5,2,0
+Site 1981,12.6,Critical,High,233,11,5,0
+Site 802,12.6,Critical,High,75,4,2,0
+Site 1603,12.6,Critical,High,195,9,2,0
+Site 1604,12.6,Critical,High,279,4,2,0
+Site 638,12.6,Critical,High,11,4,1,0
+Site 384,12.6,Critical,High,67,5,2,0
+Site 2252,12.6,Critical,High,78,6,2,0
+Site 1375,12.6,Critical,High,75,4,2,0
+Site 2251,12.6,Critical,High,22,5,2,0
+Site 1145,12.6,Critical,High,183,9,3,0
+Site 902,12.6,Critical,High,82,6,2,0
+Site 848,12.6,Critical,High,531,13,4,0
+Site 157,12.6,Critical,High,836,15,6,0
+Site 1513,12.6,Critical,High,2189,8,2,0
+Site 1474,12.6,Critical,High,290,8,2,0
+Site 620,12.6,Critical,High,25,5,2,0
+Site 62,12.6,Critical,High,1243,36,12,0
+Site 861,12.6,Critical,High,442,18,6,0
+Site 1479,12.6,Critical,High,426,8,2,0
+Site 676,12.6,Critical,High,89,6,2,0
+Site 680,12.6,Critical,High,204,5,2,0
+Site 682,12.6,Critical,High,197,5,2,0
+Site 208,12.6,Critical,High,835,16,6,0
+Site 1595,12.5,Critical,High,252,6,2,0
+TUMETHOD,12.5,Critical,High,1,1,1,0
+Site 1440,12.5,Critical,High,138,4,2,0
+Site 2209,12.5,Critical,High,12,4,1,0
+Site 731,12.5,Critical,High,90,4,1,0
+Site 1547,12.5,Critical,High,752,8,2,0
+Site 1597,12.5,Critical,High,111,7,2,0
+Site 729,12.5,Critical,High,144,4,1,0
+Site 1613,12.5,Critical,High,292,7,2,0
+Site 847,12.5,Critical,High,524,11,3,0
+Site 598,12.5,Critical,High,277,14,5,0
+Site 353,12.5,Critical,High,1119,35,13,0
+Site 2178,12.5,Critical,High,29,4,2,0
+Site 1103,12.5,Critical,High,272,10,3,0
+Site 890,12.5,Critical,High,207,5,2,0
+Site 1575,12.5,Critical,High,136,4,1,0
+Site 716,12.5,Critical,High,31,5,2,0
+Site 612,12.5,Critical,High,16,4,1,0
+Site 717,12.5,Critical,High,47,5,2,0
+Site 719,12.5,Critical,High,26,4,1,0
+Site 588,12.5,Critical,High,288,15,5,0
+Site 1158,12.5,Critical,High,51,5,2,0
+Site 790,12.5,Critical,High,206,5,2,0
+Site 1376,12.5,Critical,High,240,8,2,0
+Site 18,12.5,Critical,High,1025,36,13,0
+Site 776,12.5,Critical,High,292,14,6,0
+Site 759,12.5,Critical,High,22,6,3,0
+PRINDRV2,12.5,Critical,High,8,3,3,0
+Site 750,12.5,Critical,High,52,6,2,0
+Site 2242,12.5,Critical,High,24,4,1,0
+CMSTDAT_1,12.5,Critical,High,2,1,1,0
+Site 149,12.5,Critical,High,1524,29,10,0
+Site 1743,12.5,Critical,High,94,8,2,0
+Site 1138,12.5,Critical,High,47,7,2,0
+Site 469,12.5,Critical,High,2709,31,11,0
+Site 186,12.5,Critical,High,194,14,5,0
+Site 88,12.5,Critical,High,261,18,6,0
+Site 872,12.5,Critical,High,404,4,2,0
+Site 191,12.5,Critical,High,711,27,9,0
+Site 937,12.5,Critical,High,1229,17,6,0
+Site 63,12.4,Critical,High,2444,26,10,0
+Site 892,12.4,Critical,High,200,5,2,0
+Site 517,12.4,Critical,High,113,9,3,0
+Site 79,12.4,Critical,High,1992,23,7,0
+Site 781,12.4,Critical,High,370,18,6,0
+Site 16,12.4,Critical,High,544,27,10,0
+Site 1585,12.4,Critical,High,257,5,2,0
+Site 667,12.4,Critical,High,74,5,2,0
+Site 895,12.4,Critical,High,147,5,2,0
+Site 202,12.4,Critical,High,559,16,6,0
+Site 1241,12.4,Critical,High,91,4,2,0
+Site 8,12.4,Critical,High,1610,34,11,0
+Site 64,12.4,Critical,High,1530,15,5,0
+Site 4,12.4,Critical,High,3159,40,15,0
+Site 1609,12.4,Critical,High,236,8,2,0
+Site 394,12.4,Critical,High,21,4,2,0
+Site 1050,12.4,Critical,High,163,5,2,0
+Site 1469,12.4,Critical,High,417,7,2,0
+Site 820,12.4,Critical,High,65,9,3,0
+Site 2254,12.4,Critical,High,61,8,2,0
+Site 1156,12.4,Critical,High,146,9,3,0
+Site 683,12.4,Critical,High,92,6,2,0
+Site 1080,12.4,Critical,High,564,12,3,0
+Site 606,12.4,Critical,High,87,4,1,0
+Site 1463,12.4,Critical,High,191,5,2,0
+Site 743,12.4,Critical,High,77,6,2,0
+Site 1425,12.4,Critical,High,127,5,2,0
+Site 885,12.4,Critical,High,24,4,2,0
+Site 1015,12.4,Critical,High,9,3,1,0
+Site 473,12.4,Critical,High,267,9,3,0
+Site 48,12.4,Critical,High,1056,22,7,0
+Site 487,12.4,Critical,High,267,9,4,0
+Site 515,12.4,Critical,High,115,11,4,0
+Site 1004,12.4,Critical,High,243,13,4,0
+Site 449,12.4,Critical,High,243,9,3,0
+Site 1772,12.4,Critical,High,147,13,4,0
+Site 506,12.4,Critical,High,953,19,8,0
+Site 733,12.4,Critical,High,97,5,2,0
+Site 920,12.4,Critical,High,289,7,2,0
+Site 30,12.4,Critical,High,1034,24,8,0
+Site 698,12.4,Critical,High,62,5,2,0
+Site 1535,12.3,Critical,High,62,7,2,0
+Site 450,12.3,Critical,High,260,15,6,0
+Site 454,12.3,Critical,High,269,12,4,0
+Site 504,12.3,Critical,High,1069,22,9,0
+Site 1462,12.3,Critical,High,55,5,2,0
+Site 1300,12.3,Critical,High,103,4,2,0
+Site 529,12.3,Critical,High,382,18,5,0
+Site 118,12.3,Critical,High,2070,7,2,0
+Site 1010,12.3,Critical,High,111,7,2,0
+Site 1488,12.3,Critical,High,145,7,2,0
+Site 615,12.3,Critical,High,147,5,2,0
+Site 489,12.3,Critical,High,204,9,2,0
+Site 858,12.3,Critical,High,109,5,2,0
+Site 1598,12.3,Critical,High,197,8,2,0
+Site 125,12.3,Critical,High,2072,41,13,0
+Site 1445,12.3,Critical,High,166,4,2,0
+Site 174,12.3,Critical,High,1171,23,7,0
+Site 737,12.3,Critical,High,107,5,2,0
+Site 1614,12.3,Critical,High,82,4,2,0
+Site 723,12.3,Critical,High,157,5,2,0
+Site 840,12.3,Critical,High,120,7,2,0
+Site 1791,12.3,Critical,High,452,15,5,0
+Site 31,12.3,Critical,High,295,25,9,0
+Site 183,12.3,Critical,High,233,22,8,0
+Site 38,12.3,Critical,High,834,20,6,0
+Site 846,12.3,Critical,High,431,10,3,0
+Site 1055,12.3,Critical,High,158,8,2,0
+Site 1739,12.3,Critical,High,233,8,2,0
+Site 440,12.2,Critical,High,96,5,2,0
+Site 852,12.2,Critical,High,468,13,3,0
+Site 863,12.2,Critical,High,509,16,5,0
+Site 363,12.2,Critical,High,269,6,2,0
+Site 736,12.2,Critical,High,136,7,2,0
+Site 838,12.2,Critical,High,11,3,1,0
+Site 72,12.2,Critical,High,152,8,2,0
+Site 2170,12.2,Critical,High,46,4,2,0
+Site 1740,12.2,Critical,High,161,9,3,0
+Site 372,12.2,Critical,High,121,6,2,0
+Site 753,12.2,Critical,High,53,5,2,0
+Site 2162,12.2,Critical,High,118,3,1,0
+Site 571,12.2,Critical,High,65,4,2,0
+Site 311,12.2,Critical,High,24,5,2,0
+Site 502,12.2,Critical,High,885,22,9,0
+Site 774,12.2,Critical,High,45,4,1,0
+Site 1909,12.2,Critical,High,1033,11,4,0
+Site 1328,12.2,Critical,High,26,5,2,0
+Site 827,12.2,Critical,High,11,4,2,0
+Site 747,12.2,Critical,High,62,6,2,0
+Site 163,12.2,Critical,High,332,16,5,0
+Site 131,12.2,Critical,High,515,24,9,0
+Site 1606,12.2,Critical,High,209,6,2,0
+Site 671,12.2,Critical,High,43,5,2,0
+Site 1176,12.2,Critical,High,25,5,1,0
+Site 672,12.2,Critical,High,11,3,1,0
+Site 1178,12.2,Critical,High,84,4,2,0
+Site 40,12.2,Critical,High,397,17,6,0
+Site 416,12.2,Critical,High,34,6,2,0
+Site 382,12.2,Critical,High,125,5,2,0
+Site 862,12.2,Critical,High,577,16,6,0
+Site 622,12.2,Critical,High,56,5,2,0
+Site 625,12.2,Critical,High,35,5,2,0
+Site 1747,12.1,Critical,High,274,12,4,0
+Site 1253,12.1,Critical,High,13,4,1,0
+Site 388,12.1,Critical,High,28,5,2,0
+Site 662,12.1,Critical,High,11,3,1,0
+Site 2234,12.1,Critical,High,30,4,1,0
+Site 968,12.1,Critical,High,170,9,3,0
+Site 1292,12.1,Critical,High,13,4,1,0
+Site 1227,12.1,Critical,High,118,7,2,0
+Site 618,12.1,Critical,High,59,5,2,0
+Site 472,12.1,Critical,High,295,11,4,0
+Site 508,12.1,Critical,High,434,16,6,0
+Site 1065,12.1,Critical,High,32,5,2,0
+Site 650,12.1,Critical,High,64,6,2,0
+Site 1320,12.1,Critical,High,13,4,1,0
+Site 748,12.1,Critical,High,65,4,1,0
+Site 470,12.1,Critical,High,71,9,4,0
+Site 1259,12.1,Critical,High,39,4,1,0
+Site 380,12.1,Critical,High,607,6,2,0
+Site 370,12.1,Critical,High,255,6,2,0
+Site 695,12.1,Critical,High,63,5,2,0
+Site 538,12.1,Critical,High,212,15,5,0
+Site 267,12.1,Critical,High,70,8,2,0
+CMINDRV1,12.1,Critical,High,844,22,14,0
+Site 46,12.1,Critical,High,13,4,1,0
+Site 387,12.1,Critical,High,22,4,1,0
+Site 1439,12.1,Critical,High,288,7,2,0
+Site 168,12.1,Critical,High,912,24,7,0
+Site 786,12.1,Critical,High,72,6,2,0
+Site 414,12.1,Critical,High,87,7,2,0
+Site 730,12.1,Critical,High,79,5,2,0
+Site 945,12.0,Critical,High,437,15,5,0
+Site 29,12.0,Critical,High,650,23,8,0
+Site 771,12.0,Critical,High,119,6,2,0
+PRINDRV1,12.0,Critical,High,171,14,8,0
+Site 526,12.0,Critical,High,376,12,4,0
+Site 375,12.0,Critical,High,205,5,2,0
+Site 161,12.0,Critical,High,360,14,4,0
+Site 596,12.0,Critical,High,54,6,2,0
+Site 366,12.0,Critical,High,197,5,2,0
+Site 431,12.0,Critical,High,60,5,2,0
+Site 61,12.0,Critical,High,1444,16,6,0
+Site 144,12.0,Critical,High,118,6,3,0
+Site 36,12.0,Critical,High,171,15,6,0
+Site 378,12.0,Critical,High,98,5,2,0
+Site 1629,12.0,Critical,High,12,4,2,0
+Site 673,12.0,Critical,High,28,4,1,0
+Site 1,12.0,Critical,High,1676,24,9,0
+Site 401,12.0,Critical,High,76,5,2,0
+Site 744,12.0,Critical,High,18,4,1,0
+Site 1767,12.0,Critical,High,16,4,1,0
+Site 1770,12.0,Critical,High,308,12,4,0
+Site 2195,12.0,Critical,High,30,4,1,0
+Site 386,12.0,Critical,High,87,4,2,0
+Site 499,12.0,Critical,High,36,4,2,0
+Site 655,12.0,Critical,High,23,4,1,0
